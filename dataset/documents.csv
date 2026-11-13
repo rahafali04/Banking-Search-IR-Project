@@ -1,1 +1,746 @@
-
+﻿doc_id,title,text,category,processed_text
+DOC1,"I need to activate my card, how is that done?","I need to activate my card, how is that done?",activate_my_card,need activ card done
+DOC2,"My new card has arrived, what's the activation procedure?","My new card has arrived, what's the activation procedure?",activate_my_card,new card arriv what' activ procedur
+DOC3,I need to do a card activation.,I need to do a card activation.,activate_my_card,need card activ
+DOC4,"I am unable to activate my card, it won't let me.","I am unable to activate my card, it won't let me.",activate_my_card,unabl activ card let
+DOC5,I tried activating my card and it didn't work,I tried activating my card and it didn't work,activate_my_card,tri activ card work
+DOC6,What needs to be done to activate and use a card?,What needs to be done to activate and use a card?,activate_my_card,need done activ use card
+DOC7,I just got my new card.  How can I activate it?,I just got my new card.  How can I activate it?,activate_my_card,got new card activ
+DOC8,can you assist me in activating my card?,can you assist me in activating my card?,activate_my_card,assist activ card
+DOC9,How old do you need to be to open an account?,How old do you need to be to open an account?,age_limit,old need open account
+DOC10,What about my children?,What about my children?,age_limit,children
+DOC11,What is the process for setting up and account for my child?,What is the process for setting up and account for my child?,age_limit,process set account child
+DOC12,"If I want to get an account for my daughter, can I do that?","If I want to get an account for my daughter, can I do that?",age_limit,want get account daughter
+DOC13,Can I open up an account for my child?,Can I open up an account for my child?,age_limit,open account child
+DOC14,Could I open an account for children?,Could I open an account for children?,age_limit,could open account children
+DOC15,are there age requirements,are there age requirements,age_limit,age requir
+DOC16,Can my children get an account?,Can my children get an account?,age_limit,children get account
+DOC17,where do I top up my google pay?,where do I top up my google pay?,apple_pay_or_google_pay,top googl pay
+DOC18,Is top-up possible with Apple Pay?,Is top-up possible with Apple Pay?,apple_pay_or_google_pay,top possibl appl pay
+DOC19,Can I use google pay for topping -up,Can I use google pay for topping -up,apple_pay_or_google_pay,use googl pay top
+DOC20,I seem to be having trouble with my Google Pay Top. Can you please help?,I seem to be having trouble with my Google Pay Top. Can you please help?,apple_pay_or_google_pay,seem troubl googl pay top pleas help
+DOC21,Are top-ups allowed using Apple Pay?,Are top-ups allowed using Apple Pay?,apple_pay_or_google_pay,top up allow use appl pay
+DOC22,Why isn't my Google Pay top up working for me? Did I do something wrong?,Why isn't my Google Pay top up working for me? Did I do something wrong?,apple_pay_or_google_pay,googl pay top work someth wrong
+DOC23,"Help me please, My Apple Pay American Express top up does not work.","Help me please, My Apple Pay American Express top up does not work.",apple_pay_or_google_pay,help pleas appl pay american express top not work
+DOC24,Can you explain why my Google Pay Top isn't working?,Can you explain why my Google Pay Top isn't working?,apple_pay_or_google_pay,explain googl pay top work
+DOC25,What kind of ATMs would this card be accepted at?,What kind of ATMs would this card be accepted at?,atm_support,kind atm would card accept
+DOC26,What cash stations take this card?,What cash stations take this card?,atm_support,cash station take card
+DOC27,Are there any ATM's near me that accept this card?,Are there any ATM's near me that accept this card?,atm_support,atm' near accept card
+DOC28,Do I have to use a bank approved ATM to withdraw money?,Do I have to use a bank approved ATM to withdraw money?,atm_support,use bank approv atm withdraw money
+DOC29,Is there a list of ATMs that take this card?,Is there a list of ATMs that take this card?,atm_support,list atm take card
+DOC30,How many ATMs will take this card?,How many ATMs will take this card?,atm_support,mani atm take card
+DOC31,Can I use the card at any cash machine?,Can I use the card at any cash machine?,atm_support,use card cash machin
+DOC32,Where are the ATMs that accept this card?,Where are the ATMs that accept this card?,atm_support,atm accept card
+DOC33,Can I get an auto Top-up?,Can I get an auto Top-up?,automatic_top_up,get auto top
+DOC34,I'm trying to activate the auto-top up function. Where is it?,I'm trying to activate the auto-top up function. Where is it?,automatic_top_up,tri activ auto top function
+DOC35,when i travel can it top up automatically,when i travel can it top up automatically,automatic_top_up,travel top automat
+DOC36,I want to add money automatically when I travel.,I want to add money automatically when I travel.,automatic_top_up,want add money automat travel
+DOC37,auto-top up option can be found where?,auto-top up option can be found where?,automatic_top_up,auto top option found
+DOC38,Is there a auto top-up option?,Is there a auto top-up option?,automatic_top_up,auto top option
+DOC39,When do i activate auto top-up?,When do i activate auto top-up?,automatic_top_up,activ auto top
+DOC40,How will I know when I can use the auto top-up feature?,How will I know when I can use the auto top-up feature?,automatic_top_up,know use auto top featur
+DOC41,Why wasn't my bank balance updated?,Why wasn't my bank balance updated?,balance_not_updated_after_bank_transfer,bank balanc updat
+DOC42,Why is it taking so long to update my balance transfer?,Why is it taking so long to update my balance transfer?,balance_not_updated_after_bank_transfer,take long updat balanc transfer
+DOC43,I made a transfer a couple hours ago but my balance has not been updated. Why is this? Shouldnt this be instant?,I made a transfer a couple hours ago but my balance has not been updated. Why is this? Shouldnt this be instant?,balance_not_updated_after_bank_transfer,made transfer coupl hour ago balanc not updat shouldnt instant
+DOC44,"Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?","Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?",balance_not_updated_after_bank_transfer,hi two hour ago made transfer bank uk see yet would check what' go pleas
+DOC45,MY transfer has still not appeared.,MY transfer has still not appeared.,balance_not_updated_after_bank_transfer,transfer still not appear
+DOC46,what amount of time does it take for a transfer to reflect and be available,what amount of time does it take for a transfer to reflect and be available,balance_not_updated_after_bank_transfer,amount time take transfer reflect avail
+DOC47,My account isn't showing a transfer I made.,My account isn't showing a transfer I made.,balance_not_updated_after_bank_transfer,account show transfer made
+DOC48,I don't see any change in my balance.,I don't see any change in my balance.,balance_not_updated_after_bank_transfer,see chang balanc
+DOC49,What happens if I deposit a cheque accidentally?,What happens if I deposit a cheque accidentally?,balance_not_updated_after_cheque_or_cash_deposit,happen deposit chequ accident
+DOC50,Can you tell me why a cheque deposit isn't showing in my balance?,Can you tell me why a cheque deposit isn't showing in my balance?,balance_not_updated_after_cheque_or_cash_deposit,tell chequ deposit show balanc
+DOC51,"Please, tell me why I can't have the funds I deposited a week ago? I need the money now.","Please, tell me why I can't have the funds I deposited a week ago? I need the money now.",balance_not_updated_after_cheque_or_cash_deposit,pleas tell can't fund deposit week ago need money
+DOC52,I deposited a cheque and its been days and I still haven't received the cash!!,I deposited a cheque and its been days and I still haven't received the cash!!,balance_not_updated_after_cheque_or_cash_deposit,deposit chequ day still receiv cash
+DOC53,Why is my balance still the same after a cheque deposit?,Why is my balance still the same after a cheque deposit?,balance_not_updated_after_cheque_or_cash_deposit,balanc still chequ deposit
+DOC54,Why has my account balance not changed after depositing a cheque?,Why has my account balance not changed after depositing a cheque?,balance_not_updated_after_cheque_or_cash_deposit,account balanc not chang deposit chequ
+DOC55,Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!,Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!,balance_not_updated_after_cheque_or_cash_deposit,dude put money atm last week ain't need money figur
+DOC56,Why hasn't my balance been updated? I've deposited a few cheques some days ago!,Why hasn't my balance been updated? I've deposited a few cheques some days ago!,balance_not_updated_after_cheque_or_cash_deposit,balanc updat deposit chequ day ago
+DOC57,Why has my beneficiary been denied?,Why has my beneficiary been denied?,beneficiary_not_allowed,beneficiari deni
+DOC58,I tried transferring to an account but it didn't go through. What happened?,I tried transferring to an account but it didn't go through. What happened?,beneficiary_not_allowed,tri transfer account go happen
+DOC59,My transfer to a beneficiary was rejected.,My transfer to a beneficiary was rejected.,beneficiary_not_allowed,transfer beneficiari reject
+DOC60,I'm trying to purchase crypto via the app. I haven't been able to get it to go through. Am I doing something wrong?,I'm trying to purchase crypto via the app. I haven't been able to get it to go through. Am I doing something wrong?,beneficiary_not_allowed,tri purchas crypto via app abl get go someth wrong
+DOC61,For what reason can I not transfer money to a beneficiary?,For what reason can I not transfer money to a beneficiary?,beneficiary_not_allowed,reason not transfer money beneficiari
+DOC62,I am having trouble transferring money to a beneficiery.,I am having trouble transferring money to a beneficiery.,beneficiary_not_allowed,troubl transfer money beneficieri
+DOC63,The app won't let me transfer money to a beneficiary,The app won't let me transfer money to a beneficiary,beneficiary_not_allowed,app let transfer money beneficiari
+DOC64,Why cant I transfer to my account?,Why cant I transfer to my account?,beneficiary_not_allowed,cant transfer account
+DOC65,How can I revert a transaction from this morning?,How can I revert a transaction from this morning?,cancel_transfer,revert transact morn
+DOC66,What are the steps I need to take to cancel a transaction?,What are the steps I need to take to cancel a transaction?,cancel_transfer,step need take cancel transact
+DOC67,"Yesterday, I made an incorrect payment to the wrong account for my rent payment. I need this addressed as soon as possible and the funds transferred to the correct account by no later than tomorrow.","Yesterday, I made an incorrect payment to the wrong account for my rent payment. I need this addressed as soon as possible and the funds transferred to the correct account by no later than tomorrow.",cancel_transfer,yesterday made incorrect payment wrong account rent payment need address soon possibl fund transfer correct account no later tomorrow
+DOC68,"I have arranged a transfer, but no longer need to send it. How do I stop the transfer?","I have arranged a transfer, but no longer need to send it. How do I stop the transfer?",cancel_transfer,arrang transfer no longer need send stop transfer
+DOC69,Please cancel the transfer I just made.  I put in the wrong account number and can't seem to stop it on the app.,Please cancel the transfer I just made.  I put in the wrong account number and can't seem to stop it on the app.,cancel_transfer,pleas cancel transfer made put wrong account number can't seem stop app
+DOC70,"I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?","I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",cancel_transfer,accident made payment wrong account yesterday rent payment larg account paid abl cover amount realli import payment made right account
+DOC71,"Hi, I sent a payment to the wrong account number - can you cancel it as soon as possible?","Hi, I sent a payment to the wrong account number - can you cancel it as soon as possible?",cancel_transfer,hi sent payment wrong account number cancel soon possibl
+DOC72,I sent a payment to the wrong account number - can that transaction be reversed? I am worried about accidentally giving my money away.,I sent a payment to the wrong account number - can that transaction be reversed? I am worried about accidentally giving my money away.,cancel_transfer,sent payment wrong account number transact revers worri accident give money away
+DOC73,"The expiration of my card is near, how do I order a new card?","The expiration of my card is near, how do I order a new card?",card_about_to_expire,expir card near order new card
+DOC74,"I need a new card, my old card is expiring.","I need a new card, my old card is expiring.",card_about_to_expire,need new card old card expir
+DOC75,My card is about to expired what will happen?,My card is about to expired what will happen?,card_about_to_expire,card expir happen
+DOC76,How do I go about ordering a new bank card?,How do I go about ordering a new bank card?,card_about_to_expire,go order new bank card
+DOC77,If my card is about to expire how long would it take to receive a new one and how much would that cost me?,If my card is about to expire how long would it take to receive a new one and how much would that cost me?,card_about_to_expire,card expir long would take receiv new one much would cost
+DOC78,"The expiration date for my card is coming up, how do I get a new card?","The expiration date for my card is coming up, how do I get a new card?",card_about_to_expire,expir date card come get new card
+DOC79,My card is expiring soon.,My card is expiring soon.,card_about_to_expire,card expir soon
+DOC80,I'm in China and really need a new card.,I'm in China and really need a new card.,card_about_to_expire,china realli need new card
+DOC81,Can I use my card for online payments?,Can I use my card for online payments?,card_acceptance,use card onlin payment
+DOC82,Is there anywhere I can't use my card?,Is there anywhere I can't use my card?,card_acceptance,anywher can't use card
+DOC83,Are there businesses that don't accept this card?,Are there businesses that don't accept this card?,card_acceptance,busi accept card
+DOC84,Is there restrictions on where I can use my card?,Is there restrictions on where I can use my card?,card_acceptance,restrict use card
+DOC85,At what places accept my card?,At what places accept my card?,card_acceptance,place accept card
+DOC86,In what places can I use my card?,In what places can I use my card?,card_acceptance,place use card
+DOC87,Can i use this card at any store?,Can i use this card at any store?,card_acceptance,use card store
+DOC88,Can I use my card wherever I want?,Can I use my card wherever I want?,card_acceptance,use card wherev want
+DOC89,Will I have to wait much longer for my new card to arrive?,Will I have to wait much longer for my new card to arrive?,card_arrival,wait much longer new card arriv
+DOC90,I ordered a card and would like to know how to track the delivery progress of it.,I ordered a card and would like to know how to track the delivery progress of it.,card_arrival,order card would like know track deliveri progress
+DOC91,How do I track the card you sent me?,How do I track the card you sent me?,card_arrival,track card sent
+DOC92,Where is my new card if I haven't received it yet?,Where is my new card if I haven't received it yet?,card_arrival,new card receiv yet
+DOC93,Do you have info about the card on delivery?,Do you have info about the card on delivery?,card_arrival,info card deliveri
+DOC94,My card still hasn't been delivered,My card still hasn't been delivered,card_arrival,card still deliv
+DOC95,I want to find out what happened to my new card?,I want to find out what happened to my new card?,card_arrival,want find happen new card
+DOC96,My new card has not been delivered to my home yet. What is going on?,My new card has not been delivered to my home yet. What is going on?,card_arrival,new card not deliv home yet go
+DOC97,How long is US delivery?,How long is US delivery?,card_delivery_estimate,long us deliveri
+DOC98,When should I expect to receive my card?,When should I expect to receive my card?,card_delivery_estimate,expect receiv card
+DOC99,When can I expect to receive my card?,When can I expect to receive my card?,card_delivery_estimate,expect receiv card
+DOC100,How long will delivery to the US take?,How long will delivery to the US take?,card_delivery_estimate,long deliveri us take
+DOC101,can the delivery be specific to my needs?,can the delivery be specific to my needs?,card_delivery_estimate,deliveri specif need
+DOC102,Can I have my card delivered on Tuesday?,Can I have my card delivered on Tuesday?,card_delivery_estimate,card deliv tuesday
+DOC103,How long until my card will get here?,How long until my card will get here?,card_delivery_estimate,long card get
+DOC104,When can I expect my new card to get here?,When can I expect my new card to get here?,card_delivery_estimate,expect new card get
+DOC105,Can I reactivate a card?,Can I reactivate a card?,card_linking,reactiv card
+DOC106,Help me figure out how to link the new card.,Help me figure out how to link the new card.,card_linking,help figur link new card
+DOC107,if i found a lost card can i put it back in app,if i found a lost card can i put it back in app,card_linking,found lost card put back app
+DOC108,Help me access the card I already got so I can information from it.,Help me access the card I already got so I can information from it.,card_linking,help access card alreadi got inform
+DOC109,"lost card found, want to put it back in app","lost card found, want to put it back in app",card_linking,lost card found want put back app
+DOC110,How can I link the new card?,How can I link the new card?,card_linking,link new card
+DOC111,help me link my card,help me link my card,card_linking,help link card
+DOC112,I just got my card.  It's not linked yet--how do I do that?,I just got my card.  It's not linked yet--how do I do that?,card_linking,got card not link yet
+DOC113,I wasn't able to use my card today when I went out for lunch. Wondering why that is?,I wasn't able to use my card today when I went out for lunch. Wondering why that is?,card_not_working,abl use card today went lunch wonder
+DOC114,Why can't I use my card?,Why can't I use my card?,card_not_working,can't use card
+DOC115,Why won't my card work.,Why won't my card work.,card_not_working,card work
+DOC116,How come my card doesn't work anymore?,How come my card doesn't work anymore?,card_not_working,come card work anymor
+DOC117,How do I re-order a damaged card?,How do I re-order a damaged card?,card_not_working,order damag card
+DOC118,My card will not work,My card will not work,card_not_working,card not work
+DOC119,My card doesn't seem to work.,My card doesn't seem to work.,card_not_working,card seem work
+DOC120,The card that I have isn't working. This is the physical card.,The card that I have isn't working. This is the physical card.,card_not_working,card work physic card
+DOC121,I payed with the card and there was an extra fee?,I payed with the card and there was an extra fee?,card_payment_fee_charged,pay card extra fee
+DOC122,Is it normal to get charged extra when i use my card?,Is it normal to get charged extra when i use my card?,card_payment_fee_charged,normal get charg extra use card
+DOC123,I was mistakenly charged a fee for using my card.,I was mistakenly charged a fee for using my card.,card_payment_fee_charged,mistakenli charg fee use card
+DOC124,Is there a fee for paying by card?,Is there a fee for paying by card?,card_payment_fee_charged,fee pay card
+DOC125,I used my card and there was a fee,I used my card and there was a fee,card_payment_fee_charged,use card fee
+DOC126,Why did I get charged a fee on my card?,Why did I get charged a fee on my card?,card_payment_fee_charged,get charg fee card
+DOC127,I paid with card and was charged a fee that shouldn't be there!,I paid with card and was charged a fee that shouldn't be there!,card_payment_fee_charged,paid card charg fee
+DOC128,My card was charged more than expected.,My card was charged more than expected.,card_payment_fee_charged,card charg expect
+DOC129,What do I do if I see a transaction on my card that I don't recall making?,What do I do if I see a transaction on my card that I don't recall making?,card_payment_not_recognised,see transact card recal make
+DOC130,i didnt do this charge,i didnt do this charge,card_payment_not_recognised,didnt charg
+DOC131,I do not recognise this card payment.,I do not recognise this card payment.,card_payment_not_recognised,not recognis card payment
+DOC132,I didn't make a payment at this business.,I didn't make a payment at this business.,card_payment_not_recognised,make payment busi
+DOC133,There is a payment with my card which i definitely did not make by me .Never seen that it before.,There is a payment with my card which i definitely did not make by me .Never seen that it before.,card_payment_not_recognised,payment card definit not make never seen
+DOC134,There is a record of payment I never submitted on the app.,There is a record of payment I never submitted on the app.,card_payment_not_recognised,record payment never submit app
+DOC135,I have a charge I did not make.,I have a charge I did not make.,card_payment_not_recognised,charg not make
+DOC136,I'm not sure where this charge came from.,I'm not sure where this charge came from.,card_payment_not_recognised,not sure charg came
+DOC137,The exchange rate used on your app is really bad. I'm considering closing my account because of it.,The exchange rate used on your app is really bad. I'm considering closing my account because of it.,card_payment_wrong_exchange_rate,exchang rate use app realli bad consid close account
+DOC138,You did not give me the correct exchange rate for an item that I bought.,You did not give me the correct exchange rate for an item that I bought.,card_payment_wrong_exchange_rate,not give correct exchang rate item bought
+DOC139,I bought an item that I was charged a different exchange rate for.,I bought an item that I was charged a different exchange rate for.,card_payment_wrong_exchange_rate,bought item charg differ exchang rate
+DOC140,I was using a foreign currecy to make a payment and the applied the wrong rate.,I was using a foreign currecy to make a payment and the applied the wrong rate.,card_payment_wrong_exchange_rate,use foreign curreci make payment appli wrong rate
+DOC141,I used foreign currency to buy something and I think the rate applied is incorrect.,I used foreign currency to buy something and I think the rate applied is incorrect.,card_payment_wrong_exchange_rate,use foreign currenc buy someth think rate appli incorrect
+DOC142,The exchange rate is incorrect for my payment.,The exchange rate is incorrect for my payment.,card_payment_wrong_exchange_rate,exchang rate incorrect payment
+DOC143,"I bought something while traveling, and the exchange rate was wrong.","I bought something while traveling, and the exchange rate was wrong.",card_payment_wrong_exchange_rate,bought someth travel exchang rate wrong
+DOC144,I bough an item and the exchange rate was incorrect.,I bough an item and the exchange rate was incorrect.,card_payment_wrong_exchange_rate,bough item exchang rate incorrect
+DOC145,How can I get my card out of the ATM?,How can I get my card out of the ATM?,card_swallowed,get card atm
+DOC146,The ATM did not give me my card back?,The ATM did not give me my card back?,card_swallowed,atm not give card back
+DOC147,I can't get my card out of the ATM,I can't get my card out of the ATM,card_swallowed,can't get card atm
+DOC148,atm ate my card,atm ate my card,card_swallowed,atm ate card
+DOC149,I need a new card because the ATM took mine.,I need a new card because the ATM took mine.,card_swallowed,need new card atm took mine
+DOC150,What are the steps I should take to recover my swallowed card?,What are the steps I should take to recover my swallowed card?,card_swallowed,step take recov swallow card
+DOC151,how can the money machine keep my card what do i need to do?,how can the money machine keep my card what do i need to do?,card_swallowed,money machin keep card need
+DOC152,What do I do if the ATM swallowed my card?,What do I do if the ATM swallowed my card?,card_swallowed,atm swallow card
+DOC153,Why was I charged a fee for my withdrawal?,Why was I charged a fee for my withdrawal?,cash_withdrawal_charge,charg fee withdraw
+DOC154,Why is there a fee for cash withdrawal?,Why is there a fee for cash withdrawal?,cash_withdrawal_charge,fee cash withdraw
+DOC155,"I just took some cash out of a cash machine in Heathrow airport because I wanted to buy some new sunglasses for my holiday but you've added a fee to the withdrawal, what is this?","I just took some cash out of a cash machine in Heathrow airport because I wanted to buy some new sunglasses for my holiday but you've added a fee to the withdrawal, what is this?",cash_withdrawal_charge,took cash cash machin heathrow airport want buy new sunglass holiday ad fee withdraw
+DOC156,Will I be charged for a cash withdrawal?,Will I be charged for a cash withdrawal?,cash_withdrawal_charge,charg cash withdraw
+DOC157,I withdrew cash and was charged. Why?,I withdrew cash and was charged. Why?,cash_withdrawal_charge,withdrew cash charg
+DOC158,Are there ATM fees?,Are there ATM fees?,cash_withdrawal_charge,atm fee
+DOC159,Why am I being charged to withdrawal money?,Why am I being charged to withdrawal money?,cash_withdrawal_charge,charg withdraw money
+DOC160,How come I got charged extra for withdrawing cash?,How come I got charged extra for withdrawing cash?,cash_withdrawal_charge,come got charg extra withdraw cash
+DOC161,"Someone has access to my card info.  I still have the card, but someone just withdrew cash.  How do I get this corrected/stopped?!","Someone has access to my card info.  I still have the card, but someone just withdrew cash.  How do I get this corrected/stopped?!",cash_withdrawal_not_recognised,someon access card info still card someon withdrew cash get correct stop
+DOC162,"Money was taken out without my consent,","Money was taken out without my consent,",cash_withdrawal_not_recognised,money taken without consent
+DOC163,"A WD was just made on my account, but it was not me and I still have my card.  What to do?","A WD was just made on my account, but it was not me and I still have my card.  What to do?",cash_withdrawal_not_recognised,wd made account not still card
+DOC164,I have a cash withdrawal in my statement. Why is that?,I have a cash withdrawal in my statement. Why is that?,cash_withdrawal_not_recognised,cash withdraw statement
+DOC165,My app shows a money withdrawal that I did not do.,My app shows a money withdrawal that I did not do.,cash_withdrawal_not_recognised,app show money withdraw not
+DOC166,What do I do if I do not recognise a cash withdrawal?,What do I do if I do not recognise a cash withdrawal?,cash_withdrawal_not_recognised,not recognis cash withdraw
+DOC167,"Help! I think someone has a copy of my card - I still have my card, but a five hundred pound cash withdrawal that I didn't authorize is shown on my account.","Help! I think someone has a copy of my card - I still have my card, but a five hundred pound cash withdrawal that I didn't authorize is shown on my account.",cash_withdrawal_not_recognised,help think someon copi card still card five hundr pound cash withdraw author shown account
+DOC168,Can you tell me what the cash withdrawal is in my statement?,Can you tell me what the cash withdrawal is in my statement?,cash_withdrawal_not_recognised,tell cash withdraw statement
+DOC169,How can I change my PIN without going to the bank?,How can I change my PIN without going to the bank?,change_pin,chang pin without go bank
+DOC170,Is it possible for me to change my PIN number?,Is it possible for me to change my PIN number?,change_pin,possibl chang pin number
+DOC171,Which atms allow me to change my pin?,Which atms allow me to change my pin?,change_pin,atm allow chang pin
+DOC172,I need to change my card PIN.,I need to change my card PIN.,change_pin,need chang card pin
+DOC173,"I think my pin has been compromised, what do I do?","I think my pin has been compromised, what do I do?",change_pin,think pin compromis
+DOC174,Is it possible to change my pin if i am out of the country?,Is it possible to change my pin if i am out of the country?,change_pin,possibl chang pin countri
+DOC175,Can I change my PIN without going to a bank branch?,Can I change my PIN without going to a bank branch?,change_pin,chang pin without go bank branch
+DOC176,I want a new PIN please.,I want a new PIN please.,change_pin,want new pin pleas
+DOC177,card is being used by someone else,card is being used by someone else,compromised_card,card use someon els
+DOC178,My card data has been exposed.,My card data has been exposed.,compromised_card,card data expos
+DOC179,I think someone may be using my card.,I think someone may be using my card.,compromised_card,think someon may use card
+DOC180,There are strange transactions on my account.  What should I do if I think someone stole my details?,There are strange transactions on my account.  What should I do if I think someone stole my details?,compromised_card,strang transact account think someon stole detail
+DOC181,What do I do if I believe to be a victim of credit card fraud?,What do I do if I believe to be a victim of credit card fraud?,compromised_card,believ victim credit card fraud
+DOC182,What should I do if I think someone is using my card without my permission?,What should I do if I think someone is using my card without my permission?,compromised_card,think someon use card without permiss
+DOC183,Someone hacked into my cards account.,Someone hacked into my cards account.,compromised_card,someon hack card account
+DOC184,I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more?,I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more?,compromised_card,notic card use small town never stop card use
+DOC185,I can't get a contactless payment to work.,I can't get a contactless payment to work.,contactless_not_working,can't get contactless payment work
+DOC186,I'm confused ass to why my contactless is not working.,I'm confused ass to why my contactless is not working.,contactless_not_working,confus ass contactless not work
+DOC187,Why wasn't my contactless accepted at the metro?,Why wasn't my contactless accepted at the metro?,contactless_not_working,contactless accept metro
+DOC188,how many days processing new card?,how many days processing new card?,contactless_not_working,mani day process new card
+DOC189,"I was trying to use contactless earlier, but it didn't work.","I was trying to use contactless earlier, but it didn't work.",contactless_not_working,tri use contactless earlier work
+DOC190,I need help fixing my contactless. It's not working anywhere I go today.,I need help fixing my contactless. It's not working anywhere I go today.,contactless_not_working,need help fix contactless not work anywher go today
+DOC191,The terminal I paid at wouldn't take my card. Is something wrong?,The terminal I paid at wouldn't take my card. Is something wrong?,contactless_not_working,termin paid take card someth wrong
+DOC192,Are my contactless settings correct? I tried to use it today but it wasn't working.,Are my contactless settings correct? I tried to use it today but it wasn't working.,contactless_not_working,contactless set correct tri use today work
+DOC193,Do you issue cards for someone living in the US?,Do you issue cards for someone living in the US?,country_support,issu card someon live us
+DOC194,I live in Germany. Is that one of the countries you are in? What other countries are you in?,I live in Germany. Is that one of the countries you are in? What other countries are you in?,country_support,live germani one countri countri
+DOC195,What are the countries you have offices in?,What are the countries you have offices in?,country_support,countri offic
+DOC196,"I reside in the US, but I want a card.","I reside in the US, but I want a card.",country_support,resid us want card
+DOC197,Are you only able to get a card if you're in the UK?,Are you only able to get a card if you're in the UK?,country_support,abl get card uk
+DOC198,Who gets support?,Who gets support?,country_support,get support
+DOC199,Can I use this all over the world?,Can I use this all over the world?,country_support,use world
+DOC200,What countries can I use your services?,What countries can I use your services?,country_support,countri use servic
+DOC201,I could not use my card in a store.,I could not use my card in a store.,declined_card_payment,could not use card store
+DOC202,My card payment wasn't declined,My card payment wasn't declined,declined_card_payment,card payment declin
+DOC203,My card payment did not go through.,My card payment did not go through.,declined_card_payment,card payment not go
+DOC204,Explain why my card payment wouldn't go through.,Explain why my card payment wouldn't go through.,declined_card_payment,explain card payment go
+DOC205,Why do you keep declining my payment? I tried several times already with this card and it is just not working.,Why do you keep declining my payment? I tried several times already with this card and it is just not working.,declined_card_payment,keep declin payment tri sever time alreadi card not work
+DOC206,I've tried several times to make a payment and every time my card is declined? Could my card be locked? I don't know what to do.,I've tried several times to make a payment and every time my card is declined? Could my card be locked? I don't know what to do.,declined_card_payment,tri sever time make payment everi time card declin could card lock know
+DOC207,My card payment failed.,My card payment failed.,declined_card_payment,card payment fail
+DOC208,Reason for my card to decline,Reason for my card to decline,declined_card_payment,reason card declin
+DOC209,"How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?","How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",declined_cash_withdrawal,get money atm use card can't seem get work use pin mayb wrong need fix
+DOC210,Is the ATM broken? I can't get cash from it.,Is the ATM broken? I can't get cash from it.,declined_cash_withdrawal,atm broken can't get cash
+DOC211,I can't get cash from the ATM!,I can't get cash from the ATM!,declined_cash_withdrawal,can't get cash atm
+DOC212,"Please double check my card - withdrawal was working fine so far, but this morning on the way to work it suddenly got declined!","Please double check my card - withdrawal was working fine so far, but this morning on the way to work it suddenly got declined!",declined_cash_withdrawal,pleas doubl check card withdraw work fine far morn way work suddenli got declin
+DOC213,Why was my request for cash declined?,Why was my request for cash declined?,declined_cash_withdrawal,request cash declin
+DOC214,I tried using my ATM card at your Notting Hill location today.  It did not work.  Am I doing something wrong?,I tried using my ATM card at your Notting Hill location today.  It did not work.  Am I doing something wrong?,declined_cash_withdrawal,tri use atm card not hill locat today not work someth wrong
+DOC215,Why was I declined when I tried to get my money?,Why was I declined when I tried to get my money?,declined_cash_withdrawal,declin tri get money
+DOC216,atm refused to give me money,atm refused to give me money,declined_cash_withdrawal,atm refus give money
+DOC217,"Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?","Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",declined_transfer,hello credit keep declin last night today tri buy someth statu card
+DOC218,Transfer was declined.,Transfer was declined.,declined_transfer,transfer declin
+DOC219,Why did I get declined during a transfer?,Why did I get declined during a transfer?,declined_transfer,get declin transfer
+DOC220,why did i get declined transfer,why did i get declined transfer,declined_transfer,get declin transfer
+DOC221,the bank transfer was declined,the bank transfer was declined,declined_transfer,bank transfer declin
+DOC222,Please help me as my online payment is getting declined since yesterday while i am trying to purchase something online.,Please help me as my online payment is getting declined since yesterday while i am trying to purchase something online.,declined_transfer,pleas help onlin payment get declin sinc yesterday tri purchas someth onlin
+DOC223,I couldn't make a transfer because it was declined,I couldn't make a transfer because it was declined,declined_transfer,make transfer declin
+DOC224,I have a problem with my account. I tried to transfer some funds and the message came back declined. Can you help me?,I have a problem with my account. I tried to transfer some funds and the message came back declined. Can you help me?,declined_transfer,problem account tri transfer fund messag came back declin help
+DOC225,I see a direct debit payment on my statement that wasn't me,I see a direct debit payment on my statement that wasn't me,direct_debit_payment_not_recognised,see direct debit payment statement
+DOC226,There is a debit transaction on my statement that I did not make,There is a debit transaction on my statement that I did not make,direct_debit_payment_not_recognised,debit transact statement not make
+DOC227,There is a payment showing that I know I didn't make. I didn't use my card that day and I'm sure of it. Can you please cancel that transaction and return my money? Thankyou,There is a payment showing that I know I didn't make. I didn't use my card that day and I'm sure of it. Can you please cancel that transaction and return my money? Thankyou,direct_debit_payment_not_recognised,payment show know make use card day sure pleas cancel transact return money thankyou
+DOC228,"I notice a transaction a couple of weeks ago in my account, from a seller that I don't recognize. Is there a way we can trace back the information to make sure it was truly something I did?","I notice a transaction a couple of weeks ago in my account, from a seller that I don't recognize. Is there a way we can trace back the information to make sure it was truly something I did?",direct_debit_payment_not_recognised,notic transact coupl week ago account seller recogn way trace back inform make sure truli someth
+DOC229,Please tell me what this direct debit in my statement is,Please tell me what this direct debit in my statement is,direct_debit_payment_not_recognised,pleas tell direct debit statement
+DOC230,I don't recognize this debit transaction in my billing statement?,I don't recognize this debit transaction in my billing statement?,direct_debit_payment_not_recognised,recogn debit transact bill statement
+DOC231,How can I dispute a debit transaction?,How can I dispute a debit transaction?,direct_debit_payment_not_recognised,disput debit transact
+DOC232,There is a direct debit payment that I did not make.,There is a direct debit payment that I did not make.,direct_debit_payment_not_recognised,direct debit payment not make
+DOC233,Are there limits on the virtual cards?,Are there limits on the virtual cards?,disposable_card_limits,limit virtual card
+DOC234,Is it possible to have more than one disposable card?,Is it possible to have more than one disposable card?,disposable_card_limits,possibl one dispos card
+DOC235,What is the max amount of disposable cards I'm allowed.,What is the max amount of disposable cards I'm allowed.,disposable_card_limits,max amount dispos card allow
+DOC236,With one disposable card how many transactions can i do?,With one disposable card how many transactions can i do?,disposable_card_limits,one dispos card mani transact
+DOC237,How many disposable cards can you own?,How many disposable cards can you own?,disposable_card_limits,mani dispos card
+DOC238,Do the disposable cards have a transaction limit?,Do the disposable cards have a transaction limit?,disposable_card_limits,dispos card transact limit
+DOC239,Where can I find a list of descriptions the disposable cards have?,Where can I find a list of descriptions the disposable cards have?,disposable_card_limits,find list descript dispos card
+DOC240,I need a number of disposable cards everyday.,I need a number of disposable cards everyday.,disposable_card_limits,need number dispos card everyday
+DOC241,My address is incorrect on my file.,My address is incorrect on my file.,edit_personal_details,address incorrect file
+DOC242,How do I change my last name?,How do I change my last name?,edit_personal_details,chang last name
+DOC243,How can I change my name in my profile?,How can I change my name in my profile?,edit_personal_details,chang name profil
+DOC244,How do I change my name after marriage,How do I change my name after marriage,edit_personal_details,chang name marriag
+DOC245,I have a new phone number and need to edit my contact information.,I have a new phone number and need to edit my contact information.,edit_personal_details,new phone number need edit contact inform
+DOC246,"I moved, can I edit my personal details?","I moved, can I edit my personal details?",edit_personal_details,move edit person detail
+DOC247,I would like to change my personal details.,I would like to change my personal details.,edit_personal_details,would like chang person detail
+DOC248,How do I update my address?,How do I update my address?,edit_personal_details,updat address
+DOC249,Will I be charged an extra fee if I need to exchange currency?,Will I be charged an extra fee if I need to exchange currency?,exchange_charge,charg extra fee need exchang currenc
+DOC250,What are the currency exchange fees?,What are the currency exchange fees?,exchange_charge,currenc exchang fee
+DOC251,I have foreign currency i would like to change how much will it cost me?,I have foreign currency i would like to change how much will it cost me?,exchange_charge,foreign currenc would like chang much cost
+DOC252,"Would you be able to offer me a discount, since I need to exchange currencies frequently?","Would you be able to offer me a discount, since I need to exchange currencies frequently?",exchange_charge,would abl offer discount sinc need exchang currenc frequent
+DOC253,Is there an extra fee to exchange currencies?,Is there an extra fee to exchange currencies?,exchange_charge,extra fee exchang currenc
+DOC254,Will you charge me for exchanging foreign currencies?,Will you charge me for exchanging foreign currencies?,exchange_charge,charg exchang foreign currenc
+DOC255,I need to exchange foreign currency will i be charged?,I need to exchange foreign currency will i be charged?,exchange_charge,need exchang foreign currenc charg
+DOC256,What is the charge for exchanging currency?,What is the charge for exchanging currency?,exchange_charge,charg exchang currenc
+DOC257,Does this app have the same exchange rate as third parties?,Does this app have the same exchange rate as third parties?,exchange_rate,app exchang rate third parti
+DOC258,Please explain your exchange rate policy.,Please explain your exchange rate policy.,exchange_rate,pleas explain exchang rate polici
+DOC259,How are foreign exchange rates determined?,How are foreign exchange rates determined?,exchange_rate,foreign exchang rate determin
+DOC260,What are Interbanks current exchange rates?,What are Interbanks current exchange rates?,exchange_rate,interbank current exchang rate
+DOC261,where do you find your exchange rates?,where do you find your exchange rates?,exchange_rate,find exchang rate
+DOC262,How do you calculate exchange rates?,How do you calculate exchange rates?,exchange_rate,calcul exchang rate
+DOC263,How does the exchange rate work on this app?,How does the exchange rate work on this app?,exchange_rate,exchang rate work app
+DOC264,How do you find the exchange rate?,How do you find the exchange rate?,exchange_rate,find exchang rate
+DOC265,How can I exchange AUD for GBP?,How can I exchange AUD for GBP?,exchange_via_app,exchang aud gbp
+DOC266,Can I exchange USD for GBP in your app?,Can I exchange USD for GBP in your app?,exchange_via_app,exchang usd gbp app
+DOC267,Whats types of currency can I exchange?,Whats types of currency can I exchange?,exchange_via_app,what type currenc exchang
+DOC268,Do you support changing the currency I use?,Do you support changing the currency I use?,exchange_via_app,support chang currenc use
+DOC269,Can I possibly change my currency to another?,Can I possibly change my currency to another?,exchange_via_app,possibl chang currenc anoth
+DOC270,How can I exchange currencies with this app?,How can I exchange currencies with this app?,exchange_via_app,exchang currenc app
+DOC271,How do I change to a different currency?,How do I change to a different currency?,exchange_via_app,chang differ currenc
+DOC272,How do I exchange AUD for GBP?,How do I exchange AUD for GBP?,exchange_via_app,exchang aud gbp
+DOC273,Why do I see an extra fee on my statement?,Why do I see an extra fee on my statement?,extra_charge_on_statement,see extra fee statement
+DOC274,There is a €1 extra fee in my statement,There is a €1 extra fee in my statement,extra_charge_on_statement,extra fee statement
+DOC275,The $1.00 has still not been reverted as indicated in the previous email.,The $1.00 has still not been reverted as indicated in the previous email.,extra_charge_on_statement,still not revert indic previou email
+DOC276,Where did this extra €1 fee on my statement come from?,Where did this extra €1 fee on my statement come from?,extra_charge_on_statement,extra fee statement come
+DOC277,Why is there a €1 charge on my statement?,Why is there a €1 charge on my statement?,extra_charge_on_statement,charg statement
+DOC278,What is this extra pound charge for?,What is this extra pound charge for?,extra_charge_on_statement,extra pound charg
+DOC279,I've been charged an extra £1 and I don't know why,I've been charged an extra £1 and I don't know why,extra_charge_on_statement,charg extra know
+DOC280,There is  an extra 1£ charge on my app. Why did it charge me extra?,There is  an extra 1£ charge on my app. Why did it charge me extra?,extra_charge_on_statement,extra charg app charg extra
+DOC281,I've been trying to make a transfer and it doesn't seem to be working. (5 times) What is wrong with your system?,I've been trying to make a transfer and it doesn't seem to be working. (5 times) What is wrong with your system?,failed_transfer,tri make transfer seem work time wrong system
+DOC282,What is happening?  I have tried to transfer money 5x already.  Is the system down?  This shouldnt be happening as this is a basic transfer.,What is happening?  I have tried to transfer money 5x already.  Is the system down?  This shouldnt be happening as this is a basic transfer.,failed_transfer,happen tri transfer money x alreadi system shouldnt happen basic transfer
+DOC283,My transfer failed to process correctly. Is there a reason this would happen?,My transfer failed to process correctly. Is there a reason this would happen?,failed_transfer,transfer fail process correctli reason would happen
+DOC284,"Hello.  I ran into a problem with a transfer this morning.  I was trying to send money to some friends but when I tried to send it, the transfer failed.  I don't know what is causing the transfer to be rejected.  Please let me know what is causing the problem.  Thanks.","Hello.  I ran into a problem with a transfer this morning.  I was trying to send money to some friends but when I tried to send it, the transfer failed.  I don't know what is causing the transfer to be rejected.  Please let me know what is causing the problem.  Thanks.",failed_transfer,hello ran problem transfer morn tri send money friend tri send transfer fail know caus transfer reject pleas let know caus problem thank
+DOC285,I couldnt transfer money from my account.,I couldnt transfer money from my account.,failed_transfer,couldnt transfer money account
+DOC286,"My transfer failed, why did that happen?","My transfer failed, why did that happen?",failed_transfer,transfer fail happen
+DOC287,"Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.","Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.",failed_transfer,hi progress purchas flat tri make make payment error appear need assist
+DOC288,What do I need to do to correct this failed transfer?,What do I need to do to correct this failed transfer?,failed_transfer,need correct fail transfer
+DOC289,"I need to hold money, what currencies can I use?","I need to hold money, what currencies can I use?",fiat_currency_support,need hold money currenc use
+DOC290,What are my options for holding money in multiple currencies?,What are my options for holding money in multiple currencies?,fiat_currency_support,option hold money multipl currenc
+DOC291,Which flat currencies do you support for holding and exchange?,Which flat currencies do you support for holding and exchange?,fiat_currency_support,flat currenc support hold exchang
+DOC292,What flat currencies do you support for holding and exchange?,What flat currencies do you support for holding and exchange?,fiat_currency_support,flat currenc support hold exchang
+DOC293,Can I exchange currency to Europe?,Can I exchange currency to Europe?,fiat_currency_support,exchang currenc europ
+DOC294,Which currencies will you exchange?,Which currencies will you exchange?,fiat_currency_support,currenc exchang
+DOC295,I need to know which fiat currencies I can use with you.,I need to know which fiat currencies I can use with you.,fiat_currency_support,need know fiat currenc use
+DOC296,Please tell me the types of currency I can hold.,Please tell me the types of currency I can hold.,fiat_currency_support,pleas tell type currenc hold
+DOC297,What systems do you have in place for my security when using my card for everyday purchases?,What systems do you have in place for my security when using my card for everyday purchases?,get_disposable_virtual_card,system place secur use card everyday purchas
+DOC298,Why would I need a disposable card?,Why would I need a disposable card?,get_disposable_virtual_card,would need dispos card
+DOC299,What do you use disposable cards on?,What do you use disposable cards on?,get_disposable_virtual_card,use dispos card
+DOC300,I want a virtual card that is disposable,I want a virtual card that is disposable,get_disposable_virtual_card,want virtual card dispos
+DOC301,I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?,I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?,get_disposable_virtual_card,want make onlin purchas want use credit card tell dispos virtual card work appli one
+DOC302,What can you use the disposable cards for?,What can you use the disposable cards for?,get_disposable_virtual_card,use dispos card
+DOC303,Do you offer disposable virtual cards too?,Do you offer disposable virtual cards too?,get_disposable_virtual_card,offer dispos virtual card
+DOC304,I'm interested in learning more about disposable virtual cards.,I'm interested in learning more about disposable virtual cards.,get_disposable_virtual_card,interest learn dispos virtual card
+DOC305,The card PIN is not visible anywhere?,The card PIN is not visible anywhere?,get_physical_card,card pin not visibl anywher
+DOC306,How will I know my pin number?,How will I know my pin number?,get_physical_card,know pin number
+DOC307,I have a question regarding the PIN of the card?,I have a question regarding the PIN of the card?,get_physical_card,question regard pin card
+DOC308,I don't have a PIN at this point.,I don't have a PIN at this point.,get_physical_card,pin point
+DOC309,"I have my card, when whill my PIN be available?","I have my card, when whill my PIN be available?",get_physical_card,card whill pin avail
+DOC310,I haven't received the PIN yet.,I haven't received the PIN yet.,get_physical_card,receiv pin yet
+DOC311,How long do I wait for my PIN,How long do I wait for my PIN,get_physical_card,long wait pin
+DOC312,Where do I find my card PIN?,Where do I find my card PIN?,get_physical_card,find card pin
+DOC313,Can I have a supplementary card?,Can I have a supplementary card?,getting_spare_card,supplementari card
+DOC314,I need another card for a member of my family. Is this possible? How soon can I get one?,I need another card for a member of my family. Is this possible? How soon can I get one?,getting_spare_card,need anoth card member famili possibl soon get one
+DOC315,how is it possible to add another card to account,how is it possible to add another card to account,getting_spare_card,possibl add anoth card account
+DOC316,Am I permitted to have a spare card?,Am I permitted to have a spare card?,getting_spare_card,permit spare card
+DOC317,"If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?","If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?",getting_spare_card,want abl give daughter card account would allow get one
+DOC318,Can I have a spare card for this account please?,Can I have a spare card for this account please?,getting_spare_card,spare card account pleas
+DOC319,Is it possible for me to give my daughter a second card for this account?,Is it possible for me to give my daughter a second card for this account?,getting_spare_card,possibl give daughter second card account
+DOC320,Is it possible to get another card?,Is it possible to get another card?,getting_spare_card,possibl get anoth card
+DOC321,How do I get a virtual card on my device?,How do I get a virtual card on my device?,getting_virtual_card,get virtual card devic
+DOC322,i need a virtual card,i need a virtual card,getting_virtual_card,need virtual card
+DOC323,Why haven't I been given a virtual card yet?,Why haven't I been given a virtual card yet?,getting_virtual_card,given virtual card yet
+DOC324,I would love one of the virtual cards!,I would love one of the virtual cards!,getting_virtual_card,would love one virtual card
+DOC325,where can i have a virtual card,where can i have a virtual card,getting_virtual_card,virtual card
+DOC326,How long do you have to wait to see your virtual card your ordered?,How long do you have to wait to see your virtual card your ordered?,getting_virtual_card,long wait see virtual card order
+DOC327,my virtual card has not came yet!,my virtual card has not came yet!,getting_virtual_card,virtual card not came yet
+DOC328,How to access my virtual card,How to access my virtual card,getting_virtual_card,access virtual card
+DOC329,I think my card is lost.  What do I do?,I think my card is lost.  What do I do?,lost_or_stolen_card,think card lost
+DOC330,I left my card at a restaurant and now its missing.,I left my card at a restaurant and now its missing.,lost_or_stolen_card,left card restaur miss
+DOC331,What is the first step that I should take after my card has been stolen?,What is the first step that I should take after my card has been stolen?,lost_or_stolen_card,first step take card stolen
+DOC332,My card is lost!  Please help me!,My card is lost!  Please help me!,lost_or_stolen_card,card lost pleas help
+DOC333,Help Me!  I lost my card.  What should I do?,Help Me!  I lost my card.  What should I do?,lost_or_stolen_card,help lost card
+DOC334,"My card was lost on vacation, I don't know where it is. Can you help me take care of this immediately?","My card was lost on vacation, I don't know where it is. Can you help me take care of this immediately?",lost_or_stolen_card,card lost vacat know help take care immedi
+DOC335,Report stolen card,Report stolen card,lost_or_stolen_card,report stolen card
+DOC336,Help!  My card is stolen.,Help!  My card is stolen.,lost_or_stolen_card,help card stolen
+DOC337,I'm not sure where my phone is.  Can someone else use the app?,I'm not sure where my phone is.  Can someone else use the app?,lost_or_stolen_phone,not sure phone someon els use app
+DOC338,I don't have my mobile device and am unable to make the payment because I forgot my details.,I don't have my mobile device and am unable to make the payment because I forgot my details.,lost_or_stolen_phone,mobil devic unabl make payment forgot detail
+DOC339,"I forgot my phone at the hotel, so I can't access the app.","I forgot my phone at the hotel, so I can't access the app.",lost_or_stolen_phone,forgot phone hotel can't access app
+DOC340,"Help, my phone was stolen, please advise!","Help, my phone was stolen, please advise!",lost_or_stolen_phone,help phone stolen pleas advis
+DOC341,I have an emergency and lost my phone.  I need help accessing my account.,I have an emergency and lost my phone.  I need help accessing my account.,lost_or_stolen_phone,emerg lost phone need help access account
+DOC342,"If I lost my phone at the hotel, can I still use the app?","If I lost my phone at the hotel, can I still use the app?",lost_or_stolen_phone,lost phone hotel still use app
+DOC343,"phone is gone, dont want others to access account information","phone is gone, dont want others to access account information",lost_or_stolen_phone,phone gone dont want other access account inform
+DOC344,I left my phone at the hotel.,I left my phone at the hotel.,lost_or_stolen_phone,left phone hotel
+DOC345,I would like to have a physical card to carry around and use. How can I get one?,I would like to have a physical card to carry around and use. How can I get one?,order_physical_card,would like physic card carri around use get one
+DOC346,How much does it cost for a physical card?,How much does it cost for a physical card?,order_physical_card,much cost physic card
+DOC347,tell me how I can order my card.,tell me how I can order my card.,order_physical_card,tell order card
+DOC348,how do I ask for a physical card?,how do I ask for a physical card?,order_physical_card,ask physic card
+DOC349,What is the price for a physical card?,What is the price for a physical card?,order_physical_card,price physic card
+DOC350,What areas are cards delivered to?,What areas are cards delivered to?,order_physical_card,area card deliv
+DOC351,Can you tell me exactly what fees I will expect to see in regards to your cards?,Can you tell me exactly what fees I will expect to see in regards to your cards?,order_physical_card,tell exactli fee expect see regard card
+DOC352,Where do you deliver cards to?,Where do you deliver cards to?,order_physical_card,deliv card
+DOC353,I can't access my account.,I can't access my account.,passcode_forgotten,can't access account
+DOC354,Help me!  I don't know what my password is.,Help me!  I don't know what my password is.,passcode_forgotten,help know password
+DOC355,How do I get the passcode reset?,How do I get the passcode reset?,passcode_forgotten,get passcod reset
+DOC356,Are there directions to get a new passcode if I forgot mine?,Are there directions to get a new passcode if I forgot mine?,passcode_forgotten,direct get new passcod forgot mine
+DOC357,Can someone please help assist me by explaining to me why my pass-code is not working?,Can someone please help assist me by explaining to me why my pass-code is not working?,passcode_forgotten,someon pleas help assist explain pass code not work
+DOC358,How do I reset my passcode?,How do I reset my passcode?,passcode_forgotten,reset passcod
+DOC359,I can't log in,I can't log in,passcode_forgotten,can't log
+DOC360,I do not understand why my pass-code is not working.,I do not understand why my pass-code is not working.,passcode_forgotten,not understand pass code not work
+DOC361,I don't know what pending transaction means.,I don't know what pending transaction means.,pending_card_payment,know pend transact mean
+DOC362,When will my payment go through?,When will my payment go through?,pending_card_payment,payment go
+DOC363,Why hasn't my payment shown up yet?,Why hasn't my payment shown up yet?,pending_card_payment,payment shown yet
+DOC364,I made a payment with my card and it hasn't changed. How long do you think this will take?,I made a payment with my card and it hasn't changed. How long do you think this will take?,pending_card_payment,made payment card chang long think take
+DOC365,I completed a payment with my card a while ago. It's still showing up as pending. What time frame does this normally take? It doesn't appear to have worked.,I completed a payment with my card a while ago. It's still showing up as pending. What time frame does this normally take? It doesn't appear to have worked.,pending_card_payment,complet payment card ago still show pend time frame normal take appear work
+DOC366,I'm still waiting on a payment,I'm still waiting on a payment,pending_card_payment,still wait payment
+DOC367,There is a single payment on my card which shows as pending.,There is a single payment on my card which shows as pending.,pending_card_payment,singl payment card show pend
+DOC368,I bought something this morning and the payment is still pending,I bought something this morning and the payment is still pending,pending_card_payment,bought someth morn payment still pend
+DOC369,What does pending mean on a cash withdrawal?,What does pending mean on a cash withdrawal?,pending_cash_withdrawal,pend mean cash withdraw
+DOC370,"I tempted to get some money out of the machine earlier and it did not work.Looking now, the transaction actually shows to still be in progress. I would certainly appreciate someone look into this and let me know what's going on. I definitely do not want to be charged for money I never received.","I tempted to get some money out of the machine earlier and it did not work.Looking now, the transaction actually shows to still be in progress. I would certainly appreciate someone look into this and let me know what's going on. I definitely do not want to be charged for money I never received.",pending_cash_withdrawal,tempt get money machin earlier not work look transact actual show still progress would certainli appreci someon look let know what' go definit not want charg money never receiv
+DOC371,I got some cash in the ATM but its still pending,I got some cash in the ATM but its still pending,pending_cash_withdrawal,got cash atm still pend
+DOC372,my cash out is still pending,my cash out is still pending,pending_cash_withdrawal,cash still pend
+DOC373,Should my cash withdrawal still be pending?,Should my cash withdrawal still be pending?,pending_cash_withdrawal,cash withdraw still pend
+DOC374,Why is my cash withdrawal still showing as pending?,Why is my cash withdrawal still showing as pending?,pending_cash_withdrawal,cash withdraw still show pend
+DOC375,What should I do if I see a withdrawal is pending?,What should I do if I see a withdrawal is pending?,pending_cash_withdrawal,see withdraw pend
+DOC376,"my cash withdrawal is pending, why?","my cash withdrawal is pending, why?",pending_cash_withdrawal,cash withdraw pend
+DOC377,Top-up is loaded into the card and no update.,Top-up is loaded into the card and no update.,pending_top_up,top load card no updat
+DOC378,My top-up is taking a very long time to complete.,My top-up is taking a very long time to complete.,pending_top_up,top take long time complet
+DOC379,Why hasn't my top up gone through?,Why hasn't my top up gone through?,pending_top_up,top gone
+DOC380,I just made a top-up but it shows as pending! I use your service all the time and have never had a problem before. Why does it keep showing up as pending?,I just made a top-up but it shows as pending! I use your service all the time and have never had a problem before. Why does it keep showing up as pending?,pending_top_up,made top show pend use servic time never problem keep show pend
+DOC381,Seems like my top-up has not gone through,Seems like my top-up has not gone through,pending_top_up,seem like top not gone
+DOC382,I have a new card and I can't add money to it.  I tried about 30 minutes ago and it is still pending.  What do I do?,I have a new card and I can't add money to it.  I tried about 30 minutes ago and it is still pending.  What do I do?,pending_top_up,new card can't add money tri minut ago still pend
+DOC383,Is my top up not working?,Is my top up not working?,pending_top_up,top not work
+DOC384,My top-up funds aren't available yet.,My top-up funds aren't available yet.,pending_top_up,top fund avail yet
+DOC385,I have a trasnger that is pending and wondered about it.,I have a trasnger that is pending and wondered about it.,pending_transfer,trasnger pend wonder
+DOC386,How long does it take for pending transfer transactions to post?,How long does it take for pending transfer transactions to post?,pending_transfer,long take pend transfer transact post
+DOC387,"So, my transfer is showing as pending, when will it actually go through?","So, my transfer is showing as pending, when will it actually go through?",pending_transfer,transfer show pend actual go
+DOC388,"Hey I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It's not that difficult to transfer money to another country in 2018 is it?","Hey I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It's not that difficult to transfer money to another country in 2018 is it?",pending_transfer,hey doubl check correct account detail alreadi right sure transfer still pend sinc forev not difficult transfer money anoth countri
+DOC389,How long will my transfer stay pending?,How long will my transfer stay pending?,pending_transfer,long transfer stay pend
+DOC390,I sent payment with EU transfer and they still haven't received it. How long does it take?,I sent payment with EU transfer and they still haven't received it. How long does it take?,pending_transfer,sent payment eu transfer still receiv long take
+DOC391,Why does my transfer say it is pending?,Why does my transfer say it is pending?,pending_transfer,transfer say pend
+DOC392,My transfer is stuck pending? How do we fix it to it goes through?,My transfer is stuck pending? How do we fix it to it goes through?,pending_transfer,transfer stuck pend fix goe
+DOC393,I may have entered the PIN wrong and the account is blocked.  What do I have to do to get it unblocked.,I may have entered the PIN wrong and the account is blocked.  What do I have to do to get it unblocked.,pin_blocked,may enter pin wrong account block get unblock
+DOC394,I entered my pin wrong  too many times.,I entered my pin wrong  too many times.,pin_blocked,enter pin wrong mani time
+DOC395,I have used all of my PIN tries. What should I do now?,I have used all of my PIN tries. What should I do now?,pin_blocked,use pin tri
+DOC396,"I locked myself out of my account, how do I unblock my PIN?","I locked myself out of my account, how do I unblock my PIN?",pin_blocked,lock account unblock pin
+DOC397,"
+How do I unblock my PIN?","
+How do I unblock my PIN?",pin_blocked,unblock pin
+DOC398,Can someone help me unblock my pin?,Can someone help me unblock my pin?,pin_blocked,someon help unblock pin
+DOC399,How many incorrect attempts cause card to be blocked?,How many incorrect attempts cause card to be blocked?,pin_blocked,mani incorrect attempt caus card block
+DOC400,"After inputting the wrong pin too many times, can you now help me unblock my pin?","After inputting the wrong pin too many times, can you now help me unblock my pin?",pin_blocked,input wrong pin mani time help unblock pin
+DOC401,Can my salary be received here?,Can my salary be received here?,receiving_money,salari receiv
+DOC402,I use GBP for my salary deposits. Must I set this up somewhere?,I use GBP for my salary deposits. Must I set this up somewhere?,receiving_money,use gbp salari deposit must set somewher
+DOC403,How can you transfer my salary to my correct currency?,How can you transfer my salary to my correct currency?,receiving_money,transfer salari correct currenc
+DOC404,How can I receive my salary in another currency?,How can I receive my salary in another currency?,receiving_money,receiv salari anoth currenc
+DOC405,How can I receive money from my friend?,How can I receive money from my friend?,receiving_money,receiv money friend
+DOC406,Can I transfer my salary onto here?,Can I transfer my salary onto here?,receiving_money,transfer salari onto
+DOC407,I need my payment in another currency,I need my payment in another currency,receiving_money,need payment anoth currenc
+DOC408,Can I use my salary for this?,Can I use my salary for this?,receiving_money,use salari
+DOC409,My refund isn't showing up on my statement.,My refund isn't showing up on my statement.,Refund_not_showing_up,refund show statement
+DOC410,How do I find the refund on my statement?,How do I find the refund on my statement?,Refund_not_showing_up,find refund statement
+DOC411,Why is the refund not on my statement?,Why is the refund not on my statement?,Refund_not_showing_up,refund not statement
+DOC412,Why is my refund not visible on my statement?,Why is my refund not visible on my statement?,Refund_not_showing_up,refund not visibl statement
+DOC413,A refund is taking too long.,A refund is taking too long.,Refund_not_showing_up,refund take long
+DOC414,Why can't I see my refund in my statement?,Why can't I see my refund in my statement?,Refund_not_showing_up,can't see refund statement
+DOC415,I was supposed to get a refund but I do not see it.,I was supposed to get a refund but I do not see it.,Refund_not_showing_up,suppos get refund not see
+DOC416,I requested a refund but am unable to see it in my account. Why is that?,I requested a refund but am unable to see it in my account. Why is that?,Refund_not_showing_up,request refund unabl see account
+DOC417,I would like to report an issue with my product and want to get it refunded,I would like to report an issue with my product and want to get it refunded,request_refund,would like report issu product want get refund
+DOC418,My product was faulty.,My product was faulty.,request_refund,product faulti
+DOC419,I'm interested in learning more about product refunds.,I'm interested in learning more about product refunds.,request_refund,interest learn product refund
+DOC420,I would like to cancel my purchase.,I would like to cancel my purchase.,request_refund,would like cancel purchas
+DOC421,How do I go about getting a refund?,How do I go about getting a refund?,request_refund,go get refund
+DOC422,tell me how to get a refund for something I bought.,tell me how to get a refund for something I bought.,request_refund,tell get refund someth bought
+DOC423,I bought an item and now I want a refund.,I bought an item and now I want a refund.,request_refund,bought item want refund
+DOC424,I would like my money back for an item I purchased,I would like my money back for an item I purchased,request_refund,would like money back item purchas
+DOC425,"I purchased something and the seller hasn't received the money yet, but it has been deducted from my account.","I purchased something and the seller hasn't received the money yet, but it has been deducted from my account.",reverted_card_payment?,purchas someth seller receiv money yet deduct account
+DOC426,"Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?","Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?",reverted_card_payment?,around one two week ago purchas someth there' seem issu alreadi receiv one item today money place back account happen
+DOC427,I an not sure but it looks as if a card payment I made was cancelled.,I an not sure but it looks as if a card payment I made was cancelled.,reverted_card_payment?,not sure look card payment made cancel
+DOC428,It looks like my card payment was sent back.,It looks like my card payment was sent back.,reverted_card_payment?,look like card payment sent back
+DOC429,I just got refunded for my purchase over two weeks ago,I just got refunded for my purchase over two weeks ago,reverted_card_payment?,got refund purchas two week ago
+DOC430,Can you tell me why the card payment came back?,Can you tell me why the card payment came back?,reverted_card_payment?,tell card payment came back
+DOC431,Why did you cancel my card payment?,Why did you cancel my card payment?,reverted_card_payment?,cancel card payment
+DOC432,"I dont know what happened, but my payment was cancelled","I dont know what happened, but my payment was cancelled",reverted_card_payment?,dont know happen payment cancel
+DOC433,Which currencies can I use to add money?,Which currencies can I use to add money?,supported_cards_and_currencies,currenc use add money
+DOC434,Can I electronically transfer funds into my account from my American Express?,Can I electronically transfer funds into my account from my American Express?,supported_cards_and_currencies,electron transfer fund account american express
+DOC435,Am I able to add money into my account using my American Express?,Am I able to add money into my account using my American Express?,supported_cards_and_currencies,abl add money account use american express
+DOC436,"If I want to topup by card, how do I do it?","If I want to topup by card, how do I do it?",supported_cards_and_currencies,want topup card
+DOC437,"For adding money, which currencies do you accept?","For adding money, which currencies do you accept?",supported_cards_and_currencies,ad money currenc accept
+DOC438,how do i add money from my amex card to top up,how do i add money from my amex card to top up,supported_cards_and_currencies,add money amex card top
+DOC439,Is American Express supported for adding funds?,Is American Express supported for adding funds?,supported_cards_and_currencies,american express support ad fund
+DOC440,Which credit card top-ups do you accept?,Which credit card top-ups do you accept?,supported_cards_and_currencies,credit card top up accept
+DOC441,How do I shut down my account and get out of this company?,How do I shut down my account and get out of this company?,terminate_account,shut account get compani
+DOC442,Delete my account please. Now!,Delete my account please. Now!,terminate_account,delet account pleas
+DOC443,Are you able to delete my account?,Are you able to delete my account?,terminate_account,abl delet account
+DOC444,I want to close my account. The service you provide is unsatisfactory to me.,I want to close my account. The service you provide is unsatisfactory to me.,terminate_account,want close account servic provid unsatisfactori
+DOC445,I am not satisfied with your company and wish to delete all accounts immediately.,I am not satisfied with your company and wish to delete all accounts immediately.,terminate_account,not satisfi compani wish delet account immedi
+DOC446,I need you to delete my account right now.,I need you to delete my account right now.,terminate_account,need delet account right
+DOC447,I am not happy with your company. Please delete my account asap.,I am not happy with your company. Please delete my account asap.,terminate_account,not happi compani pleas delet account asap
+DOC448,I'd like my account to be deleted. I'm not satisfied with the service you provide.,I'd like my account to be deleted. I'm not satisfied with the service you provide.,terminate_account,like account delet not satisfi servic provid
+DOC449,How much would it cost me if I transfer?,How much would it cost me if I transfer?,top_up_by_bank_transfer_charge,much would cost transfer
+DOC450,Do you charge for transfers?,Do you charge for transfers?,top_up_by_bank_transfer_charge,charg transfer
+DOC451,What is the charge to make a transfer,What is the charge to make a transfer,top_up_by_bank_transfer_charge,charg make transfer
+DOC452,What would I be charged in receiving a SEPA transfer?,What would I be charged in receiving a SEPA transfer?,top_up_by_bank_transfer_charge,would charg receiv sepa transfer
+DOC453,what is the price of a transfer?,what is the price of a transfer?,top_up_by_bank_transfer_charge,price transfer
+DOC454,Does this program take SWIFT transfers?,Does this program take SWIFT transfers?,top_up_by_bank_transfer_charge,program take swift transfer
+DOC455,"I'd like to make a SEPA transfer to my account, but will I be charged?","I'd like to make a SEPA transfer to my account, but will I be charged?",top_up_by_bank_transfer_charge,like make sepa transfer account charg
+DOC456,Will I be charged for a top off transfer?,Will I be charged for a top off transfer?,top_up_by_bank_transfer_charge,charg top transfer
+DOC457,how much for topping up by card?,how much for topping up by card?,top_up_by_card_charge,much top card
+DOC458,I topped off my card is that something you will charge me for?,I topped off my card is that something you will charge me for?,top_up_by_card_charge,top card someth charg
+DOC459,Is there a fee to top up a US card using a debit or credit card?,Is there a fee to top up a US card using a debit or credit card?,top_up_by_card_charge,fee top us card use debit credit card
+DOC460,Does it cost to add money to my card?,Does it cost to add money to my card?,top_up_by_card_charge,cost add money card
+DOC461,what is the fee for topping up by card?,what is the fee for topping up by card?,top_up_by_card_charge,fee top card
+DOC462,When I add money to my international card do you charge a fee to do so?,When I add money to my international card do you charge a fee to do so?,top_up_by_card_charge,add money intern card charg fee
+DOC463,How much is it to use my US debit or credit card to top up?,How much is it to use my US debit or credit card to top up?,top_up_by_card_charge,much use us debit credit card top
+DOC464,Are there any charges for top ups?,Are there any charges for top ups?,top_up_by_card_charge,charg top up
+DOC465,Will a cheque suffice?,Will a cheque suffice?,top_up_by_cash_or_cheque,chequ suffic
+DOC466,Do you have any options to top up with a cheque on my account?,Do you have any options to top up with a cheque on my account?,top_up_by_cash_or_cheque,option top chequ account
+DOC467,I'll send a check to top up my account,I'll send a check to top up my account,top_up_by_cash_or_cheque,send check top account
+DOC468,Is there anyway to use a cheque to top up?,Is there anyway to use a cheque to top up?,top_up_by_cash_or_cheque,anyway use chequ top
+DOC469,Why can't I top up by cheque?,Why can't I top up by cheque?,top_up_by_cash_or_cheque,can't top chequ
+DOC470,What types of top-up methods do you accept?,What types of top-up methods do you accept?,top_up_by_cash_or_cheque,type top method accept
+DOC471,"Help, I need to top up my account. Where do I send a check?","Help, I need to top up my account. Where do I send a check?",top_up_by_cash_or_cheque,help need top account send check
+DOC472,If I need to top up with cash where should I look?,If I need to top up with cash where should I look?,top_up_by_cash_or_cheque,need top cash look
+DOC473,My top up is not working,My top up is not working,top_up_failed,top not work
+DOC474,Is there any reason why my card didn't work when I tried to top up?,Is there any reason why my card didn't work when I tried to top up?,top_up_failed,reason card work tri top
+DOC475,Why did the app deny my top-up?,Why did the app deny my top-up?,top_up_failed,app deni top
+DOC476,"I could not get a top-up to work, why?","I could not get a top-up to work, why?",top_up_failed,could not get top work
+DOC477,I was trying to top up my account and it isn't working,I was trying to top up my account and it isn't working,top_up_failed,tri top account work
+DOC478,I tried to top-up but it got denied.,I tried to top-up but it got denied.,top_up_failed,tri top got deni
+DOC479,"I have the funds, why can I not use my top-up?","I have the funds, why can I not use my top-up?",top_up_failed,fund not use top
+DOC480,Won't let me top my card up!! Who can get it sorted out for me? It's urgent! How do I find out what the problem is with my card and how else to top it up?,Won't let me top my card up!! Who can get it sorted out for me? It's urgent! How do I find out what the problem is with my card and how else to top it up?,top_up_failed,let top card get sort urgent find problem card els top
+DOC481,Is there a limit for top ups?,Is there a limit for top ups?,top_up_limits,limit top up
+DOC482,What is the most that I can top-up to a card?,What is the most that I can top-up to a card?,top_up_limits,top card
+DOC483,Tell me if there is a limit to top-up.,Tell me if there is a limit to top-up.,top_up_limits,tell limit top
+DOC484,is there a limit to top up,is there a limit to top up,top_up_limits,limit top
+DOC485,Are there any top-up limits that I must follow?,Are there any top-up limits that I must follow?,top_up_limits,top limit must follow
+DOC486,What is the maximum top up?,What is the maximum top up?,top_up_limits,maximum top
+DOC487,Whats the limit on my top up,Whats the limit on my top up,top_up_limits,what limit top
+DOC488,Is there a maximum for top-ups?,Is there a maximum for top-ups?,top_up_limits,maximum top up
+DOC489,Seems like my top-up has been cancelled,Seems like my top-up has been cancelled,top_up_reverted,seem like top cancel
+DOC490,I didn't cancel my top-up.,I didn't cancel my top-up.,top_up_reverted,cancel top
+DOC491,What caused my top-up to be returned?,What caused my top-up to be returned?,top_up_reverted,caus top return
+DOC492,Why did you revert my top-up?,Why did you revert my top-up?,top_up_reverted,revert top
+DOC493,My top-up was reverted by the app.,My top-up was reverted by the app.,top_up_reverted,top revert app
+DOC494,I think my top up was reversed.,I think my top up was reversed.,top_up_reverted,think top revers
+DOC495,I got notified that my top up has been reverted. Why?,I got notified that my top up has been reverted. Why?,top_up_reverted,got notifi top revert
+DOC496,"For some reason, the money I added was returned.","For some reason, the money I added was returned.",top_up_reverted,reason money ad return
+DOC497,"I tried topping off my account with a card, but the money is not in my account despite the charge going through","I tried topping off my account with a card, but the money is not in my account despite the charge going through",topping_up_by_card,tri top account card money not account despit charg go
+DOC498,what happened to the money after i put in the wrong info and it got declined,what happened to the money after i put in the wrong info and it got declined,topping_up_by_card,happen money put wrong info got declin
+DOC499,Can anyone else top-up for me?,Can anyone else top-up for me?,topping_up_by_card,anyon els top
+DOC500,The money disappeared after I topped up my account.,The money disappeared after I topped up my account.,topping_up_by_card,money disappear top account
+DOC501,Can a friend top up my account,Can a friend top up my account,topping_up_by_card,friend top account
+DOC502,Why can't I see my top up?,Why can't I see my top up?,topping_up_by_card,can't see top
+DOC503,Am I the only one who can top-up my account?,Am I the only one who can top-up my account?,topping_up_by_card,one top account
+DOC504,I want to top up by card,I want to top up by card,topping_up_by_card,want top card
+DOC505,I have a transaction showing multiple times.,I have a transaction showing multiple times.,transaction_charged_twice,transact show multipl time
+DOC506,I need a transaction reversed from my account.,I need a transaction reversed from my account.,transaction_charged_twice,need transact revers account
+DOC507,"I only made one transaction at this place, but it's appearing multiple times.","I only made one transaction at this place, but it's appearing multiple times.",transaction_charged_twice,made one transact place appear multipl time
+DOC508,There is the same transaction showing more than once.,There is the same transaction showing more than once.,transaction_charged_twice,transact show
+DOC509,"I got double charged from something, what can I do?","I got double charged from something, what can I do?",transaction_charged_twice,got doubl charg someth
+DOC510,Hi. Please can you help me fix a double charge on my card? I'm looking at my transactions and this restaurant I went to earlier in the week has charged me twice! Please remove the additional charge for me.,Hi. Please can you help me fix a double charge on my card? I'm looking at my transactions and this restaurant I went to earlier in the week has charged me twice! Please remove the additional charge for me.,transaction_charged_twice,hi pleas help fix doubl charg card look transact restaur went earlier week charg twice pleas remov addit charg
+DOC511,"My account shows I have been charged twice for the same meal. How do I get the second payment voided and returned to me? I do not eat out much and my family is living paycheck to paycheck,  mostly. I cannot afford to spend more money than necessary, as is, so I must see to it that the cost be promptly credited back onto my card.","My account shows I have been charged twice for the same meal. How do I get the second payment voided and returned to me? I do not eat out much and my family is living paycheck to paycheck,  mostly. I cannot afford to spend more money than necessary, as is, so I must see to it that the cost be promptly credited back onto my card.",transaction_charged_twice,account show charg twice meal get second payment void return not eat much famili live paycheck paycheck mostli cannot afford spend money necessari must see cost promptli credit back onto card
+DOC512,I have a duplicate charge,I have a duplicate charge,transaction_charged_twice,duplic charg
+DOC513,"I transferred money, why was charged for an extra fee?","I transferred money, why was charged for an extra fee?",transfer_fee_charged,transfer money charg extra fee
+DOC514,Hey I thought transfers were free.  Why are you charging me?,Hey I thought transfers were free.  Why are you charging me?,transfer_fee_charged,hey thought transfer free charg
+DOC515,Why do I have an unexpected fee on my bill?,Why do I have an unexpected fee on my bill?,transfer_fee_charged,unexpect fee bill
+DOC516,why was a extra fee added to my account for transfer ?,why was a extra fee added to my account for transfer ?,transfer_fee_charged,extra fee ad account transfer
+DOC517,Is it normal to see a fee for transferring money?,Is it normal to see a fee for transferring money?,transfer_fee_charged,normal see fee transfer money
+DOC518,I did a transfer and was charged a fee that should not have been charged!,I did a transfer and was charged a fee that should not have been charged!,transfer_fee_charged,transfer charg fee not charg
+DOC519,Why is there a fee on my money transfer?,Why is there a fee on my money transfer?,transfer_fee_charged,fee money transfer
+DOC520,There's something wrong on my bill. A transfer fee should never have been added.,There's something wrong on my bill. A transfer fee should never have been added.,transfer_fee_charged,there' someth wrong bill transfer fee never ad
+DOC521,I have an account that is empty of funds. Can I transfer some from another bank?,I have an account that is empty of funds. Can I transfer some from another bank?,transfer_into_account,account empti fund transfer anoth bank
+DOC522,I have questions about how to transfer money to my account.,I have questions about how to transfer money to my account.,transfer_into_account,question transfer money account
+DOC523,How does it work when I transfer money into my account?,How does it work when I transfer money into my account?,transfer_into_account,work transfer money account
+DOC524,How can my account have money transferred into it?,How can my account have money transferred into it?,transfer_into_account,account money transfer
+DOC525,Can you tell me how transferring money into my account works?,Can you tell me how transferring money into my account works?,transfer_into_account,tell transfer money account work
+DOC526,How do I transfer money between two of my accounts?,How do I transfer money between two of my accounts?,transfer_into_account,transfer money two account
+DOC527,Can I use a bank transfer to add money to my account?,Can I use a bank transfer to add money to my account?,transfer_into_account,use bank transfer add money account
+DOC528,Can I transfer money to my account with the app?,Can I transfer money to my account with the app?,transfer_into_account,transfer money account app
+DOC529,Could you please help me?  I made my rent payment and have double checked that I sent it to the right account.  The person receiving it says he has not received it but it shows complete on my side.,Could you please help me?  I made my rent payment and have double checked that I sent it to the right account.  The person receiving it says he has not received it but it shows complete on my side.,transfer_not_received_by_recipient,could pleas help made rent payment doubl check sent right account person receiv say not receiv show complet side
+DOC530,The day before yesterday I transferred funds to another account within the country.  The funds have not yet arrived.  I double and triple checked the account number and it was correct.  Why hasn't the transfer been completed yet?,The day before yesterday I transferred funds to another account within the country.  The funds have not yet arrived.  I double and triple checked the account number and it was correct.  Why hasn't the transfer been completed yet?,transfer_not_received_by_recipient,day yesterday transfer fund anoth account within countri fund not yet arriv doubl tripl check account number correct transfer complet yet
+DOC531,"I sent money to someone but they haven't gotten it, what's going on?","I sent money to someone but they haven't gotten it, what's going on?",transfer_not_received_by_recipient,sent money someon gotten what' go
+DOC532,I made a transfer to my friend earlier and she hasn't received it yet.  What's the hold up?,I made a transfer to my friend earlier and she hasn't received it yet.  What's the hold up?,transfer_not_received_by_recipient,made transfer friend earlier receiv yet what' hold
+DOC533,my friend has not got the money I sent last week.,my friend has not got the money I sent last week.,transfer_not_received_by_recipient,friend not got money sent last week
+DOC534,My recipient hasn't received the money,My recipient hasn't received the money,transfer_not_received_by_recipient,recipi receiv money
+DOC535,I transferred some cash and it didn't arrive,I transferred some cash and it didn't arrive,transfer_not_received_by_recipient,transfer cash arriv
+DOC536,wheres my money receipt,wheres my money receipt,transfer_not_received_by_recipient,where money receipt
+DOC537,How do i transfer something faster than normal?,How do i transfer something faster than normal?,transfer_timing,transfer someth faster normal
+DOC538,Can you please tell me how long it takes for the transfer to be available.,Can you please tell me how long it takes for the transfer to be available.,transfer_timing,pleas tell long take transfer avail
+DOC539,How long will it take to transfer from europe?,How long will it take to transfer from europe?,transfer_timing,long take transfer europ
+DOC540,When will my transfer be in my account?,When will my transfer be in my account?,transfer_timing,transfer account
+DOC541,When will my account receive the money?,When will my account receive the money?,transfer_timing,account receiv money
+DOC542,I need to transfer something to China. It is urgent. How many days will it take to get there?,I need to transfer something to China. It is urgent. How many days will it take to get there?,transfer_timing,need transfer someth china urgent mani day take get
+DOC543,How long am I to wait before the transfer gets to my account?,How long am I to wait before the transfer gets to my account?,transfer_timing,long wait transfer get account
+DOC544,Where's the money from my transfer from Europe?,Where's the money from my transfer from Europe?,transfer_timing,where' money transfer europ
+DOC545,I'm not able to verify my identity.,I'm not able to verify my identity.,unable_to_verify_identity,not abl verifi ident
+DOC546,The app is telling me that I am not me.,The app is telling me that I am not me.,unable_to_verify_identity,app tell not
+DOC547,Everytime I try to prove my identity it won't let me.,Everytime I try to prove my identity it won't let me.,unable_to_verify_identity,everytim tri prove ident let
+DOC548,I am having trouble with the app recognizing me.,I am having trouble with the app recognizing me.,unable_to_verify_identity,troubl app recogn
+DOC549,I am unable to prove my identity,I am unable to prove my identity,unable_to_verify_identity,unabl prove ident
+DOC550,Why hasn't the app verified my identity?,Why hasn't the app verified my identity?,unable_to_verify_identity,app verifi ident
+DOC551,My identity verification is not working.,My identity verification is not working.,unable_to_verify_identity,ident verif not work
+DOC552,How long does it take for my id to verify?,How long does it take for my id to verify?,unable_to_verify_identity,long take id verifi
+DOC553,can i verify my identity i the app,can i verify my identity i the app,verify_my_identity,verifi ident app
+DOC554,How can I prove I am me?,How can I prove I am me?,verify_my_identity,prove
+DOC555,What do you need for the identity verification,What do you need for the identity verification,verify_my_identity,need ident verif
+DOC556,Can I get information on the identity checks?,Can I get information on the identity checks?,verify_my_identity,get inform ident check
+DOC557,what documentation do I need for the identity check?,what documentation do I need for the identity check?,verify_my_identity,document need ident check
+DOC558,What are the steps to verify identity?,What are the steps to verify identity?,verify_my_identity,step verifi ident
+DOC559,Can I use my social security card as a form of identity?,Can I use my social security card as a form of identity?,verify_my_identity,use social secur card form ident
+DOC560,What documents do I need for the identity check?,What documents do I need for the identity check?,verify_my_identity,document need ident check
+DOC561,is there a way to see where funds come from,is there a way to see where funds come from,verify_source_of_funds,way see fund come
+DOC562,where exactly does money come from,where exactly does money come from,verify_source_of_funds,exactli money come
+DOC563,Where do my available funds come from?,Where do my available funds come from?,verify_source_of_funds,avail fund come
+DOC564,Where can I find my fund information?,Where can I find my fund information?,verify_source_of_funds,find fund inform
+DOC565,What are the sources for the funds in my account?,What are the sources for the funds in my account?,verify_source_of_funds,sourc fund account
+DOC566,What is the source of funds for my money?,What is the source of funds for my money?,verify_source_of_funds,sourc fund money
+DOC567,Verify my source of funds?,Verify my source of funds?,verify_source_of_funds,verifi sourc fund
+DOC568,How do I verify the source of my funds?,How do I verify the source of my funds?,verify_source_of_funds,verifi sourc fund
+DOC569,My top up card needs verification and I don't know how to do it,My top up card needs verification and I don't know how to do it,verify_top_up,top card need verif know
+DOC570,Why do the top-ups need to be verified?,Why do the top-ups need to be verified?,verify_top_up,top up need verifi
+DOC571,"I just want to top-up, why do I need to verify anything?","I just want to top-up, why do I need to verify anything?",verify_top_up,want top need verifi anyth
+DOC572,I can't see a top-up top-up verification code.,I can't see a top-up top-up verification code.,verify_top_up,can't see top top verif code
+DOC573,Can I verify my top-up card?,Can I verify my top-up card?,verify_top_up,verifi top card
+DOC574,What's a verification code?,What's a verification code?,verify_top_up,what' verif code
+DOC575,what's my top-up verification code?,what's my top-up verification code?,verify_top_up,what' top verif code
+DOC576,why do i have to verify top up?,why do i have to verify top up?,verify_top_up,verifi top
+DOC577,I have a disposable card but it does not work?,I have a disposable card but it does not work?,virtual_card_not_working,dispos card not work
+DOC578,My disposable virtual card isn't working.,My disposable virtual card isn't working.,virtual_card_not_working,dispos virtual card work
+DOC579,Why is my disposable card not working?,Why is my disposable card not working?,virtual_card_not_working,dispos card not work
+DOC580,Please help me.  My disposable virtual card won't work right.,Please help me.  My disposable virtual card won't work right.,virtual_card_not_working,pleas help dispos virtual card work right
+DOC581,How do I get this damn virtual card to work?,How do I get this damn virtual card to work?,virtual_card_not_working,get damn virtual card work
+DOC582,Is there a reason why my virtual card won't work?,Is there a reason why my virtual card won't work?,virtual_card_not_working,reason virtual card work
+DOC583,I can't seem to get my virtual card to work.,I can't seem to get my virtual card to work.,virtual_card_not_working,can't seem get virtual card work
+DOC584,Why can't I make multiple payments with my virtual card?,Why can't I make multiple payments with my virtual card?,virtual_card_not_working,can't make multipl payment virtual card
+DOC585,I'd prefer a Mastercard.,I'd prefer a Mastercard.,visa_or_mastercard,prefer mastercard
+DOC586,I hope to get a Visa card,I hope to get a Visa card,visa_or_mastercard,hope get visa card
+DOC587,Can you make sure I get a MasterCard and not a Visa?,Can you make sure I get a MasterCard and not a Visa?,visa_or_mastercard,make sure get mastercard not visa
+DOC588,Can I use visa or mastercard with your service,Can I use visa or mastercard with your service,visa_or_mastercard,use visa mastercard servic
+DOC589,I'm wanting to get a Visa card today.,I'm wanting to get a Visa card today.,visa_or_mastercard,want get visa card today
+DOC590,"I'd like to get a Visa card, please.","I'd like to get a Visa card, please.",visa_or_mastercard,like get visa card pleas
+DOC591,Which one are you?  Visa or Mastercard?,Which one are you?  Visa or Mastercard?,visa_or_mastercard,one visa mastercard
+DOC592,"I want to get a Visa and Mastercard, is it possible to get both from you?","I want to get a Visa and Mastercard, is it possible to get both from you?",visa_or_mastercard,want get visa mastercard possibl get
+DOC593,Why is it required to verify my identity?,Why is it required to verify my identity?,why_verify_identity,requir verifi ident
+DOC594,Why is it important to verify my identity?,Why is it important to verify my identity?,why_verify_identity,import verifi ident
+DOC595,Can I use my account although my identity verification has yet to pass?,Can I use my account although my identity verification has yet to pass?,why_verify_identity,use account although ident verif yet pass
+DOC596,Can we skip verifying?,Can we skip verifying?,why_verify_identity,skip verifi
+DOC597,What do you do with all the identity information you're collecting from me?,What do you do with all the identity information you're collecting from me?,why_verify_identity,ident inform collect
+DOC598,how do I speed up identity verification?,how do I speed up identity verification?,why_verify_identity,speed ident verif
+DOC599,I want to use my account before identity verification,I want to use my account before identity verification,why_verify_identity,want use account ident verif
+DOC600,I still want to use my account but haven't verified is that OK?,I still want to use my account but haven't verified is that OK?,why_verify_identity,still want use account verifi ok
+DOC601,When I went to withdraw cash today the ATM gave me the wrong amount of cash. The app is showing a larger amount.,When I went to withdraw cash today the ATM gave me the wrong amount of cash. The app is showing a larger amount.,wrong_amount_of_cash_received,went withdraw cash today atm gave wrong amount cash app show larger amount
+DOC602,The ATM didn't give me the amount I asked for,The ATM didn't give me the amount I asked for,wrong_amount_of_cash_received,atm give amount ask
+DOC603,I got less money than I asked for.,I got less money than I asked for.,wrong_amount_of_cash_received,got less money ask
+DOC604,I only got some of the cash I requested from the ATM,I only got some of the cash I requested from the ATM,wrong_amount_of_cash_received,got cash request atm
+DOC605,Where'd the rest of my cash go from the ATM,Where'd the rest of my cash go from the ATM,wrong_amount_of_cash_received,where'd rest cash go atm
+DOC606,Why did I only get $20 now the full amount I wanted?,Why did I only get $20 now the full amount I wanted?,wrong_amount_of_cash_received,get full amount want
+DOC607,The ATM didn't give me the full requested amount,The ATM didn't give me the full requested amount,wrong_amount_of_cash_received,atm give full request amount
+DOC608,Why didn't I receive the right amount of cash?,Why didn't I receive the right amount of cash?,wrong_amount_of_cash_received,receiv right amount cash
+DOC609,I withdrew cash abroad and the exchange rate applied is wrong.,I withdrew cash abroad and the exchange rate applied is wrong.,wrong_exchange_rate_for_cash_withdrawal,withdrew cash abroad exchang rate appli wrong
+DOC610,Someone may have made an error in figuring out the rate of exchange.  I should have received more cash than I did on my most recent withdrawal.,Someone may have made an error in figuring out the rate of exchange.  I should have received more cash than I did on my most recent withdrawal.,wrong_exchange_rate_for_cash_withdrawal,someon may made error figur rate exchang receiv cash recent withdraw
+DOC611,"Over the holiday I withdrew cash from the ATM and it seems that I was severely overcharged. Had I known that I would be charged those fees, I would not have used the ATM!","Over the holiday I withdrew cash from the ATM and it seems that I was severely overcharged. Had I known that I would be charged those fees, I would not have used the ATM!",wrong_exchange_rate_for_cash_withdrawal,holiday withdrew cash atm seem sever overcharg known would charg fee would not use atm
+DOC612,Whats wrong with my currency exchange?,Whats wrong with my currency exchange?,wrong_exchange_rate_for_cash_withdrawal,what wrong currenc exchang
+DOC613,"When I got my cash, the amount was not what it should have been, based on the exchange rate.","When I got my cash, the amount was not what it should have been, based on the exchange rate.",wrong_exchange_rate_for_cash_withdrawal,got cash amount not base exchang rate
+DOC614,"I was using foreign currency at an ATM, but the rate was typed in wrong.","I was using foreign currency at an ATM, but the rate was typed in wrong.",wrong_exchange_rate_for_cash_withdrawal,use foreign currenc atm rate type wrong
+DOC615,"I tried using a foreign currency at an ATM, but the ATM provided me an incorrect rate. Why is that?","I tried using a foreign currency at an ATM, but the ATM provided me an incorrect rate. Why is that?",wrong_exchange_rate_for_cash_withdrawal,tri use foreign currenc atm atm provid incorrect rate
+DOC616,You've incorrectly calculated the exchange rate for my cash withdrawal,You've incorrectly calculated the exchange rate for my cash withdrawal,wrong_exchange_rate_for_cash_withdrawal,incorrectli calcul exchang rate cash withdraw
+DOC617,"How do I know if I will get my card, or if it is lost?","How do I know if I will get my card, or if it is lost?",card_arrival,know get card lost
+DOC618,"I still haven't received my card after two weeks, is it lost?","I still haven't received my card after two weeks, is it lost?",card_arrival,still receiv card two week lost
+DOC619,Has my card been lost in delivery?,Has my card been lost in delivery?,card_arrival,card lost deliveri
+DOC620,Can I get an update on my replacement card?,Can I get an update on my replacement card?,card_arrival,get updat replac card
+DOC621,I haven't received my card and am worried it is lost.,I haven't received my card and am worried it is lost.,card_arrival,receiv card worri lost
+DOC622,Is my card lost? I am still waiting for it to be delivered.,Is my card lost? I am still waiting for it to be delivered.,card_arrival,card lost still wait deliv
+DOC623,If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?,If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?,card_linking,find card lost need dispos activ card continu use
+DOC624,I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.,I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.,card_linking,found lost card jacket pocket morn like reactiv pleas
+DOC625,"I would like to re-activate my card, it was previously reported  lost but I found it this morning.","I would like to re-activate my card, it was previously reported  lost but I found it this morning.",card_linking,would like activ card previous report lost found morn
+DOC626,"The card I thought was lost was just in my jacket, so can I reactivate it since I found it this morning?","The card I thought was lost was just in my jacket, so can I reactivate it since I found it this morning?",card_linking,card thought lost jacket reactiv sinc found morn
+DOC627,"I want to reactivate my card, I thought I had lost it but found it again this morning.","I want to reactivate my card, I thought I had lost it but found it again this morning.",card_linking,want reactiv card thought lost found morn
+DOC628,"I need a card reactivation, I had reported my card lost but I ran across it in my jacket.","I need a card reactivation, I had reported my card lost but I ran across it in my jacket.",card_linking,need card reactiv report card lost ran across jacket
+DOC629,My card is no longer lost. How do I enter it back into the app?,My card is no longer lost. How do I enter it back into the app?,card_linking,card no longer lost enter back app
+DOC630,"I want to reactivate my card, I thought I had lost it but found it again in my jacket.","I want to reactivate my card, I thought I had lost it but found it again in my jacket.",card_linking,want reactiv card thought lost found jacket
+DOC631,"May I reactivate my card? I previously reported it lost, but have now found it safe and sound.","May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",card_linking,may reactiv card previous report lost found safe sound
+DOC632,How do I reactivate a card I thought I lost?,How do I reactivate a card I thought I lost?,card_linking,reactiv card thought lost
+DOC633,I found my lost card. Am I still able to use it?,I found my lost card. Am I still able to use it?,card_linking,found lost card still abl use
+DOC634,"I want to reactivate my card, I found it after thinking it was lost.","I want to reactivate my card, I found it after thinking it was lost.",card_linking,want reactiv card found think lost
+DOC635,I found the card I thought I lost this morning. Can I reactivate this card?,I found the card I thought I lost this morning. Can I reactivate this card?,card_linking,found card thought lost morn reactiv card
+DOC636,"I want to reactivate my card, I thought I had lost it but I found it.","I want to reactivate my card, I thought I had lost it but I found it.",card_linking,want reactiv card thought lost found
+DOC637,"I have found my lost or stolen card, would I still have to activate the new card that was sent to me through the mail in order to access my account?","I have found my lost or stolen card, would I still have to activate the new card that was sent to me through the mail in order to access my account?",card_linking,found lost stolen card would still activ new card sent mail order access account
+DOC638,"I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.","I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",card_linking,thought lost card cancel recent found jacket would like establish card
+DOC639,Can I reactivate my card? I reported it lost and found it this morning in my jacket.,Can I reactivate my card? I reported it lost and found it this morning in my jacket.,card_linking,reactiv card report lost found morn jacket
+DOC640,"I want to reactivate my card, I thought I had lost it but found it again in my jacket this morning.","I want to reactivate my card, I thought I had lost it but found it again in my jacket this morning.",card_linking,want reactiv card thought lost found jacket morn
+DOC641,"I recently reported my card as missing/lost, and I just found it. Can I still use it?","I recently reported my card as missing/lost, and I just found it. Can I still use it?",card_linking,recent report card miss lost found still use
+DOC642,If my card was lost or stolen can I re-link it?,If my card was lost or stolen can I re-link it?,card_linking,card lost stolen link
+DOC643,I would like to reactivate my card that I previously reported lost. I located the card this morning.,I would like to reactivate my card that I previously reported lost. I located the card this morning.,card_linking,would like reactiv card previous report lost locat card morn
+DOC644,Can I re-link a lost card with the app?,Can I re-link a lost card with the app?,card_linking,link lost card app
+DOC645,"I found my card that I thought I had lost, I need to reactive it, please help.","I found my card that I thought I had lost, I need to reactive it, please help.",card_linking,found card thought lost need reactiv pleas help
+DOC646,"I found the card that I thought I lost, and I would like to reactivate it.","I found the card that I thought I lost, and I would like to reactivate it.",card_linking,found card thought lost would like reactiv
+DOC647,"I thought I lost my card but I found it today, so I would like to reactivate it.","I thought I lost my card but I found it today, so I would like to reactivate it.",card_linking,thought lost card found today would like reactiv
+DOC648,Is it possible to reactivate the card I thought I lost but found this morning in my jacket?,Is it possible to reactivate the card I thought I lost but found this morning in my jacket?,card_linking,possibl reactiv card thought lost found morn jacket
+DOC649,"The card I thought I lost was in my jacket pocket this morning, so can I reactivate that?","The card I thought I lost was in my jacket pocket this morning, so can I reactivate that?",card_linking,card thought lost jacket pocket morn reactiv
+DOC650,I'm worried my card might be lost in the mail? How long does it usually take to arrive?,I'm worried my card might be lost in the mail? How long does it usually take to arrive?,card_delivery_estimate,worri card might lost mail long usual take arriv
+DOC651,I'm panicking!  I lost my card!  Help!,I'm panicking!  I lost my card!  Help!,lost_or_stolen_card,panick lost card help
+DOC652,I need to report a stolen card,I need to report a stolen card,lost_or_stolen_card,need report stolen card
+DOC653,How do I replace a stolen card?,How do I replace a stolen card?,lost_or_stolen_card,replac stolen card
+DOC654,Help! I lost my card!,Help! I lost my card!,lost_or_stolen_card,help lost card
+DOC655,My card is missing.  Please help.,My card is missing.  Please help.,lost_or_stolen_card,card miss pleas help
+DOC656,I think that my card has been stolen!,I think that my card has been stolen!,lost_or_stolen_card,think card stolen
+DOC657,My card was stolen,My card was stolen,lost_or_stolen_card,card stolen
+DOC658,A fee shouldn't apply to me if my card was stolen.,A fee shouldn't apply to me if my card was stolen.,lost_or_stolen_card,fee appli card stolen
+DOC659,"My card has been stolen. I reported it with the police, but I need to report it with you as well.","My card has been stolen. I reported it with the police, but I need to report it with you as well.",lost_or_stolen_card,card stolen report polic need report well
+DOC660,My card has been stolen what do I do?,My card has been stolen what do I do?,lost_or_stolen_card,card stolen
+DOC661,"I can't find my card, it is lost.","I can't find my card, it is lost.",lost_or_stolen_card,can't find card lost
+DOC662,I believe that my card has been stolen!,I believe that my card has been stolen!,lost_or_stolen_card,believ card stolen
+DOC663,What should I do if I think my card was stolen?,What should I do if I think my card was stolen?,lost_or_stolen_card,think card stolen
+DOC664,Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.,Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.,lost_or_stolen_card,send new card block current one spain wallet stolen
+DOC665,My bag got stolen with all my cards. Can you please cancel my card and send a new one?,My bag got stolen with all my cards. Can you please cancel my card and send a new one?,lost_or_stolen_card,bag got stolen card pleas cancel card send new one
+DOC666,I think my card is stolen!,I think my card is stolen!,lost_or_stolen_card,think card stolen
+DOC667,"Help!  I fear that my card was stolen,","Help!  I fear that my card was stolen,",lost_or_stolen_card,help fear card stolen
+DOC668,How can I report that my card was stolen? I made a police report first.,How can I report that my card was stolen? I made a police report first.,lost_or_stolen_card,report card stolen made polic report first
+DOC669,My card is missing!  Help!,My card is missing!  Help!,lost_or_stolen_card,card miss help
+DOC670,"i need help, i lost my card","i need help, i lost my card",lost_or_stolen_card,need help lost card
+DOC671,What can I do if I lost my card?,What can I do if I lost my card?,lost_or_stolen_card,lost card
+DOC672,I think that the card is stolen.  What are my next steps?,I think that the card is stolen.  What are my next steps?,lost_or_stolen_card,think card stolen next step
+DOC673,What do I do if my card is stolen?,What do I do if my card is stolen?,lost_or_stolen_card,card stolen
+DOC674,My card is stolen.  Help!,My card is stolen.  Help!,lost_or_stolen_card,card stolen help
+DOC675,I lost track of my card,I lost track of my card,lost_or_stolen_card,lost track card
+DOC676,I have lost my card! What is my next step?,I have lost my card! What is my next step?,lost_or_stolen_card,lost card next step
+DOC677,My card has been lost! help!,My card has been lost! help!,lost_or_stolen_card,card lost help
+DOC678,What do I do if my card has been lost or stolen?,What do I do if my card has been lost or stolen?,lost_or_stolen_card,card lost stolen
+DOC679,Who can I speak with regarding a lost card?,Who can I speak with regarding a lost card?,lost_or_stolen_card,speak regard lost card
+DOC680,My card has gone missing.,My card has gone missing.,lost_or_stolen_card,card gone miss
+DOC681,oh my god I lost my card! what should I do?,oh my god I lost my card! what should I do?,lost_or_stolen_card,oh god lost card
+DOC682,I seem to have lost my card.,I seem to have lost my card.,lost_or_stolen_card,seem lost card
+DOC683,My card was stolen. What do I need to do?,My card was stolen. What do I need to do?,lost_or_stolen_card,card stolen need
+DOC684,I lost my card n need a new one.,I lost my card n need a new one.,lost_or_stolen_card,lost card n need new one
+DOC685,My card has been lost / stolen,My card has been lost / stolen,lost_or_stolen_card,card lost stolen
+DOC686,Please help me.  My card is missing.,Please help me.  My card is missing.,lost_or_stolen_card,pleas help card miss
+DOC687,"I lost my card, what do I do now?","I lost my card, what do I do now?",lost_or_stolen_card,lost card
+DOC688,I need to order a new card as my other one was stolen.,I need to order a new card as my other one was stolen.,lost_or_stolen_card,need order new card one stolen
+DOC689,What are the steps I need to do if I have a stolen card?,What are the steps I need to do if I have a stolen card?,lost_or_stolen_card,step need stolen card
+DOC690,What should I do if my card is stolen?,What should I do if my card is stolen?,lost_or_stolen_card,card stolen
+DOC691,How do I deactivate a stolen card?,How do I deactivate a stolen card?,lost_or_stolen_card,deactiv stolen card
+DOC692,"I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.","I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.",lost_or_stolen_card,want block card deactiv someth stolen want misus want handl right away
+DOC693,Need help with a stolen card.,Need help with a stolen card.,lost_or_stolen_card,need help stolen card
+DOC694,"help, lost my card","help, lost my card",lost_or_stolen_card,help lost card
+DOC695,What do I do if my card was stolen.,What do I do if my card was stolen.,lost_or_stolen_card,card stolen
+DOC696,My card is missing.,My card is missing.,lost_or_stolen_card,card miss
+DOC697,How do I report my card as lost or stolen?,How do I report my card as lost or stolen?,lost_or_stolen_card,report card lost stolen
+DOC698,I've lost my card. What can I do about that?,I've lost my card. What can I do about that?,lost_or_stolen_card,lost card
+DOC699,I lost my card. Can you help me?,I lost my card. Can you help me?,lost_or_stolen_card,lost card help
+DOC700,What should I do?  My card has been stolen!,What should I do?  My card has been stolen!,lost_or_stolen_card,card stolen
+DOC701,My card was stolen last night.,My card was stolen last night.,lost_or_stolen_card,card stolen last night
+DOC702,Could you assist me in finding my lost card?,Could you assist me in finding my lost card?,lost_or_stolen_card,could assist find lost card
+DOC703,Hello! I randomly got charged an extra fee today as i was shopping online and i have no idea why! Are there extra fees for card payments? Or am i missing something here?,Hello! I randomly got charged an extra fee today as i was shopping online and i have no idea why! Are there extra fees for card payments? Or am i missing something here?,card_payment_fee_charged,hello randomli got charg extra fee today shop onlin no idea extra fee card payment miss someth
+DOC704,"I have lost my card, but need to place an online order! How do I get a virtual card instantly?","I have lost my card, but need to place an online order! How do I get a virtual card instantly?",getting_virtual_card,lost card need place onlin order get virtual card instantli
+DOC705,I swear that there are 2 payments on the app that I didn't make.  Could my card me stolen?  Please advise what I should do.,I swear that there are 2 payments on the app that I didn't make.  Could my card me stolen?  Please advise what I should do.,card_payment_not_recognised,swear payment app make could card stolen pleas advis
+DOC706,I used my card top-up but all of the money is missing.,I used my card top-up but all of the money is missing.,topping_up_by_card,use card top money miss
+DOC707,What can I do if my card details where stolen from my car? I think they used my card to buy gas.,What can I do if my card details where stolen from my car? I think they used my card to buy gas.,compromised_card,card detail stolen car think use card buy ga
+DOC708,"My card info was stolen, what do I do?","My card info was stolen, what do I do?",compromised_card,card info stolen
+DOC709,"i didnt make these transactions, i think my card details might be stolen","i didnt make these transactions, i think my card details might be stolen",compromised_card,didnt make transact think card detail might stolen
+DOC710,"my card details could be stolen, as i didnt make these transactions","my card details could be stolen, as i didnt make these transactions",compromised_card,card detail could stolen didnt make transact
+DOC711,"I froze my account, but how do I order a replacement card?","I froze my account, but how do I order a replacement card?",compromised_card,froze account order replac card
+DOC712,My card was stolen and used to make several purchases. Please freeze my card so no one can use it.,My card was stolen and used to make several purchases. Please freeze my card so no one can use it.,compromised_card,card stolen use make sever purchas pleas freez card no one use
+DOC713,My card information seems to have been stolen! I don't know where these transactions came from and I've never even been to the city where they were made. I need my card blocked ASAP so this person can't keep using my card.,My card information seems to have been stolen! I don't know where these transactions came from and I've never even been to the city where they were made. I need my card blocked ASAP so this person can't keep using my card.,compromised_card,card inform seem stolen know transact came never even citi made need card block asap person can't keep use card
+DOC714,How do I order a replacement for stolen card?,How do I order a replacement for stolen card?,compromised_card,order replac stolen card
+DOC715,I lost my phone! Will my card still work?,I lost my phone! Will my card still work?,lost_or_stolen_phone,lost phone card still work
+DOC716,Can you tell me what i steps i should take since my card was stolen?,Can you tell me what i steps i should take since my card was stolen?,lost_or_stolen_phone,tell step take sinc card stolen
+DOC717,I lost my phone. Can I use my card without the app?,I lost my phone. Can I use my card without the app?,lost_or_stolen_phone,lost phone use card without app
+DOC718,How do I use my card if I lost my phone?,How do I use my card if I lost my phone?,lost_or_stolen_phone,use card lost phone
+DOC719,How can I stop someone from using my card after I lost it yesterday.,How can I stop someone from using my card after I lost it yesterday.,lost_or_stolen_phone,stop someon use card lost yesterday
+DOC720,lost my card in atm,lost my card in atm,card_swallowed,lost card atm
+DOC721,I have lost my credit card in the ATM!,I have lost my credit card in the ATM!,card_swallowed,lost credit card atm
+DOC722,"I lost my card and need a new one, will it cost me?","I lost my card and need a new one, will it cost me?",getting_spare_card,lost card need new one cost
+DOC723,What does the bank charge for lost or stolen card replacements?,What does the bank charge for lost or stolen card replacements?,order_physical_card,bank charg lost stolen card replac
+DOC724,I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!!,I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!!,cash_withdrawal_not_recognised,lost wallet think someon use card withdraw money pleas cancel freez card
+DOC725,I lost my wallet and I think someone is withdrawing cash with my card. Please help. It is urgent.,I lost my wallet and I think someone is withdrawing cash with my card. Please help. It is urgent.,cash_withdrawal_not_recognised,lost wallet think someon withdraw cash card pleas help urgent
+DOC726,I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?,I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?,cash_withdrawal_not_recognised,think someon may clone card someth card lost saw charg cash withdraw help
+DOC727,My identity has been stolen. I still have my physical card but there are charges I didn't make on my account. How do I cancel this card or dispute the charges?,My identity has been stolen. I still have my physical card but there are charges I didn't make on my account. How do I cancel this card or dispute the charges?,cash_withdrawal_not_recognised,ident stolen still physic card charg make account cancel card disput charg
+DOC728,"My wallet was just stolen, and they've already used my card! Please help, I can't afford to lose more money!","My wallet was just stolen, and they've already used my card! Please help, I can't afford to lose more money!",cash_withdrawal_not_recognised,wallet stolen alreadi use card pleas help can't afford lose money
+DOC729,"Just received my replacement card, what steps do i need to take to activate it?","Just received my replacement card, what steps do i need to take to activate it?",activate_my_card,receiv replac card step need take activ
+DOC730,"I am overseas in China, can I get a replacement card?","I am overseas in China, can I get a replacement card?",card_about_to_expire,oversea china get replac card
+DOC731,"I need a new card to replace an expired one. Will it cost anything, and how soon?","I need a new card to replace an expired one. Will it cost anything, and how soon?",card_about_to_expire,need new card replac expir one cost anyth soon
+DOC732,How can I replace an expired card?,How can I replace an expired card?,card_about_to_expire,replac expir card
+DOC733,How do I replace a card that's going to expire?,How do I replace a card that's going to expire?,card_about_to_expire,replac card that' go expir
+DOC734,"When my card expires soon, how fast is the replacement card sent and what are the costs?","When my card expires soon, how fast is the replacement card sent and what are the costs?",card_about_to_expire,card expir soon fast replac card sent cost
+DOC735,My card is about to expire.  Are there any costs with a replacement card?  How quick do you mail it to me?,My card is about to expire.  Are there any costs with a replacement card?  How quick do you mail it to me?,card_about_to_expire,card expir cost replac card quick mail
+DOC736,"The expiration date on my card is very soon, and I need to get a new one.  What are the price and delivery options for my replacement card?","The expiration date on my card is very soon, and I need to get a new one.  What are the price and delivery options for my replacement card?",card_about_to_expire,expir date card soon need get new one price deliveri option replac card
+DOC737,When my card expires what is the cost of a replacement and how fast?,When my card expires what is the cost of a replacement and how fast?,card_about_to_expire,card expir cost replac fast
+DOC738,I will need a new card because mine is almost expired.  How fast do I get a replacement and what is the cost?,I will need a new card because mine is almost expired.  How fast do I get a replacement and what is the cost?,card_about_to_expire,need new card mine almost expir fast get replac cost
+DOC739,Tell me how to replace my expired card.,Tell me how to replace my expired card.,card_about_to_expire,tell replac expir card
+DOC740,How do I replace my card before it expires next month?,How do I replace my card before it expires next month?,card_about_to_expire,replac card expir next month
+DOC741,How do I replace my card before it expires?,How do I replace my card before it expires?,card_about_to_expire,replac card expir
+DOC742,How do I replace my card?,How do I replace my card?,card_about_to_expire,replac card
+DOC743,"My card's expiration is approaching, how do I replace it.","My card's expiration is approaching, how do I replace it.",card_about_to_expire,card' expir approach replac
