@@ -13,12 +13,13 @@ The goal of Phase 1 is to provide a robust functional console-based search appli
 ---
 
 ## 👥 Team Members & Contributions
-| Team Member | Assigned Module | Key Contributions |
+
+| Team Member | Assigned Module | Key Contributions & Video Demonstration Plan |
 | :--- | :--- | :--- |
-| **Aya** | Data Preprocessing (`preprocessing.py`) | Downloaded dataset, handled data cleaning, tokenization, stopword removal, stemming, and saved the clean CSV file. |
-| **Ghada** | Inverted Index & Boolean Search (`inverted_index.py`, `boolean_search.py`, `test_boolean.py`) | Constructed the dictionary-set inverted index, implemented Boolean operators (AND, OR, NOT), and automated testing. |
-| **Rahaf Hamdi** | Dataset Validation & Reporting | Assisted with dataset restructuring, testing query structures, and project documentation. |
-| **Rahaf Ali Awwad** | Ranked Search & Integration (`ranked_search.py`, `main.py`) | Implemented TF-IDF vectorization, Cosine Similarity ranking, top-k retrieval, and the interactive console interface. |
+| **Aya** | **Data Preprocessing** <br>(`preprocessing.py`) | • Downloaded the BANKING77 dataset, cleaned text, and applied Lowercasing, Tokenization, Stopwords Removal, and Stemming.<br>• **In Video:** Runs code and demonstrates a live "Before / After" example of text processing. |
+| **Ghada** | **Inverted Index** <br>(`inverted_index.py`) | • Built the term-to-document-ID inverted index using Python dictionaries and Sets based on the clean corpus.<br>• **In Video:** Runs the index script and explains the structure of postings. |
+| **Rahaf Hamdi** | **Boolean Search** <br>(`boolean_search.py`, `test_boolean.py`) | • Implemented logical operators: AND (intersection), OR (union), and NOT (complement) against the inverted index.<br>• **In Video:** Executes Boolean queries (e.g., `lost AND card`) and shows matching document IDs. |
+| **Rahaf Ali Awwad** | **Ranked Search & Integration** <br>(`ranked_search.py`, `main.py`) | • Implemented TF-IDF vectorization, Cosine Similarity ranking, top-k retrieval, and the main integrated console interface (`main.py`).<br>• **In Video:** Runs ranked queries, demonstrates similarity scores, and presents the integrated system. |
 
 ---
 
@@ -29,11 +30,11 @@ Banking-Search-IR-Project/
 ├── dataset/
 │   └── documents.csv          # Preprocessed clean banking corpus (743 records)
 ├── __pycache__/
-├── preprocessing.py           # Data extraction and cleaning pipeline
-├── inverted_index.py          # Term-to-doc_id dictionary inverted index module
-├── boolean_search.py          # Boolean query parsing and set operations
-├── test_boolean.py            # Automated test script for Boolean operators
-├── ranked_search.py           # TF-IDF vector space model & Cosine Similarity ranking
-├── main.py                    # Interactive console application (Main runner)
+├── preprocessing.py           # Data extraction and cleaning pipeline (Aya)
+├── inverted_index.py          # Term-to-doc_id inverted index module (Ghada)
+├── boolean_search.py          # Boolean query parsing and set operations (Rahaf Hamdi)
+├── test_boolean.py            # Automated test script for Boolean operators (Rahaf Hamdi)
+├── ranked_search.py           # TF-IDF vector space model & Cosine Similarity (Rahaf Ali)
+├── main.py                    # Interactive console application / Main integration (Rahaf Ali)
 ├── requirements.txt           # Project dependencies list
 └── README.md                  # Project documentation
